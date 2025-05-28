@@ -12,7 +12,7 @@ Minden tanulmány külön oldalon érhető el, saját leírással és letölthet
 
 ## 🧭 Elérhető tanulmányok
 
-- [A jeruzsálemi döntés](/tanulmanyok/jeruzsalemi-dontes/)
+- [A jeruzsálemi döntés - Az apostoli zsinat határozatának értelmezési keretei](/tanulmanyok/jeruzsalemi-dontes/)
 
 
 ---
