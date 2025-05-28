@@ -4,4 +4,4 @@ title: Bibliai tanulmányok
 
 # Bibliai tanulmányok
 
-Ez az oldal Orosz Sándor Ádám bibliai témájú kutatásainak bemutatására szolgál.
+Ezen az oldalon Orosz Sándor Ádám bibliai témájú kutatásai találhatók.
