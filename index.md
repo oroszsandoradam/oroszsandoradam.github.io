@@ -5,8 +5,8 @@ description: Orosz Sándor Ádám publikációi
 
 # 📚 Bibliai tanulmányok
 
-Ezen az oldal Orosz Sándor Ádám bibliai tanulmányai olvashatók.  
-Minden tanulmány külön oldalon érhető el, saját leírással és letölthető PDF-változattal.
+Ezen az oldalon Orosz Sándor Ádám bibliai tanulmányai találhatók.
+Minden írás külön oldalon olvasható, és PDF formátumban is letölthető.
 
 ---
 
@@ -19,6 +19,6 @@ Minden tanulmány külön oldalon érhető el, saját leírással és letölthet
 
 ## ℹ️ Megjegyzés
 
-A tanulmányok **Creative Commons BY 4.0** licenc alatt szabadon megoszthatók és idézhetők feltéve, hogy a szerző neve
-feltüntetésre kerül, a licenc pontos megnevezése szerepel, és minden módosítás egyértelműen jelölve van.
-További tanulmányok feltöltése folyamatban van.
+A tanulmányok többsége szabadon megosztható a Creative Commons BY 4.0 licenc szerint.
+A pontos felhasználási feltételek minden írásnál külön olvashatók.
+Az oldal folyamatosan bővül újabb tanulmányokkal.
