@@ -1,3 +1,7 @@
+---
+title: A jeruzsálemi döntés
+---
+
 # A jeruzsálemi döntés
 
 Ez a tanulmány az ApCsel 15. fejezetének teológiai jelentőségét és hatását vizsgálja.
