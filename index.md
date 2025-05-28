@@ -1,5 +1,6 @@
 ---
 title: Bibliai tanulmányok
+layout: default
 ---
 
 # Bibliai tanulmányok
