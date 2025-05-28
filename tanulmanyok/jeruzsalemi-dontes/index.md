@@ -1,5 +1,6 @@
 ---
 title: A jeruzsálemi döntés
+layout: default
 ---
 
 # A jeruzsálemi döntés
