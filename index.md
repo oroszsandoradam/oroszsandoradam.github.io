@@ -19,5 +19,6 @@ Minden tanulmány külön oldalon érhető el, saját leírással és letölthet
 
 ## ℹ️ Megjegyzés
 
-A tanulmányok **Creative Commons BY 4.0** licenc alatt szabadon megoszthatók és idézhetők
+A tanulmányok **Creative Commons BY 4.0** licenc alatt szabadon megoszthatók és idézhetők feltéve, hogy a szerző neve
+feltüntetésre kerül, a licenc pontos megnevezése szerepel, és minden módosítás egyértelműen jelölve van.
 További tanulmányok feltöltése folyamatban van.
