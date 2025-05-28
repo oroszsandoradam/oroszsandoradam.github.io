@@ -18,7 +18,7 @@ title: A jeruzsálemi döntés
 - **PDF (Zenodo):** [Letöltés DOI-val](https://doi.org/10.5281/zenodo.xxxxxxx)
 
 
-<img src="Cover.jpg" alt="Borítókép" style="max-width: 300px; display: block; margin: 1em auto;" />
+<img src="Cover.jpg" alt="Borítókép" style="width: auto; max-width: 100%; height: auto; max-height: 300px; display: block; margin: 1em auto;" />
 
 > *„A Szentléleknek és nékünk tetszett…” (ApCsel 15:28)*
 
