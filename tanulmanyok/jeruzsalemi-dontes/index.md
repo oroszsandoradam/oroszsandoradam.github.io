@@ -19,7 +19,7 @@ title: A jeruzsálemi döntés
 
 
 <div style="text-align: center;">
-  <img src="Cover.jpg" alt="Borítókép" style="width: 300px; height: auto;" />
+  <img src="Cover.jpg" alt="Borítókép" style="width: 400px; height: auto;" />
 </div>
 
 > *„A Szentléleknek és nékünk tetszett…” (ApCsel 15:28)*
