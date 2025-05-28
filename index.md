@@ -1,6 +1,6 @@
 ---
 title: Bibliai tanulmányok
-description: Orosz Sándor Ádám tanulmányai
+description: Orosz Sándor Ádám publikációi
 ---
 
 # 📚 Bibliai tanulmányok
@@ -10,13 +10,11 @@ Minden tanulmány külön oldalon érhető el, saját leírással és letölthet
 
 ---
 
-## 🧭 Tartalomjegyzék
+## 🧭 Elérhető tanulmányok
 
-| Cím | Téma | Elérés |
-|-----|------|--------|
-| **A jeruzsálemi döntés** | Apostoli zsinat és noahita törvények | [Megnyitás →](/tanulmanyok/jeruzsalemi-dontes/) |
-| **A Szellem kenete** | A kenet szimbólumai az Írásban | [Megnyitás →](/tanulmanyok/szellem-kenete/) |
-| **A törvény rendje** | A Tízparancsolat genezise | [Megnyitás →](/tanulmanyok/torveny-rendje/) |
+- [A jeruzsálemi döntés](/tanulmanyok/jeruzsalemi-dontes/)
+- [A Szellem kenete](/tanulmanyok/szellem-kenete/)
+- [A törvény rendje](/tanulmanyok/torveny-rendje/)
 
 ---
 
@@ -24,4 +22,3 @@ Minden tanulmány külön oldalon érhető el, saját leírással és letölthet
 
 A tanulmányok **Creative Commons BY 4.0** licenc alatt szabadon megoszthatók és idézhetők.  
 További tanulmányok feltöltése folyamatban van.
-
