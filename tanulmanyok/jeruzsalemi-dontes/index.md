@@ -11,6 +11,12 @@ title: A jeruzsálemi döntés
 **Publikáció dátuma:** 2025. május 30.  
 **Licenc:** Creative Commons CC BY 4.0  
 **DOI:** [https://doi.org/10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxx)
+---
+
+## 📄 Letöltés
+
+- **PDF (Zenodo):** [Letöltés DOI-val](https://doi.org/10.5281/zenodo.xxxxxxx)
+
 
 ![Borítókép](Cover.jpg)
 
