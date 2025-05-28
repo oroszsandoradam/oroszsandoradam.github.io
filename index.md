@@ -5,7 +5,7 @@ description: Orosz Sándor Ádám publikációi
 
 # 📚 Bibliai tanulmányok
 
-Ez az oldal Orosz Sándor Ádám bibliai tárgyú tanulmányait tartalmazza.  
+Ezen az oldal Orosz Sándor Ádám bibliai tanulmányai olvashatók.  
 Minden tanulmány külön oldalon érhető el, saját leírással és letölthető PDF-változattal.
 
 ---
