@@ -20,7 +20,8 @@ title: A jeruzsálemi döntés
 ## Összefoglaló
 
 A jeruzsálemi zsinat döntése egyszerre oldott fel teológiai feszültséget és teremtett új közösségi rendet: elhárította a Mózesi Törvény teljes kötelezettségének terhét a pogány hívőkről, miközben négy tilalommal mégis határt vont. De vajon milyen hagyományrétegek formálták ezt a meglepően tömör, mégis súlyos tartalmú rendelkezést? Univerzális erkölcsi elvek, konkrét tórai előírások, vagy egy Szentlélek vezette szintézis? A tanulmány e kérdések mentén vizsgálja a döntés mélyebb rétegeit, és párhuzamokat keres a mai keresztény közösségek dilemmáival.
----
+
+
 
 <div style="text-align: center;">
   <img src="Cover.jpg" alt="Borítókép" style="width: 400px; height: auto;" />
