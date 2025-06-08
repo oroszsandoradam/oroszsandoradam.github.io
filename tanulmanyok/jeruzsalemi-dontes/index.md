@@ -51,7 +51,7 @@ Az Apostolok cselekedetei 15. fejezete az ősegyház egyik meghatározó teológ
 A döntés hátterének több értelmezési kerete is van. E tanulmány célja nem egyetlen, kizárólagos magyarázat mellett érvelni, hanem bemutatni azokat a főbb történeti és teológiai alapokat, amelyekre az apostoli rendelkezések épülhettek, feltárva a kérdés összetettségét és a lehetséges interpretációk sokféleségét.
 Vizsgálatunk során feltérképezzük azokat a potenciális gyökereket, amelyek hozzájárulhattak a zsinati határozat kialakulásához. Figyelmet fordítunk két tartalmi forrásra, amelyek a korabeli zsidó felfogásban és a Szentírásban is jelen voltak:
 
-- **Az univerzális erkölcsi elvek**: A zsidó hagyomány ismerte azt a koncepciót, hogy léteznek olyan alapvető isteni elvárások, amelyek nemcsak Izraelre, hanem az egész emberiségre érvényesek. Ezeket az elveket később a hét noahita törvényként kodifikálták. Kérdés, hogy a zsinati döntés pontjai mennyiben tükrözik ezt az univerzális erkölcsi minimumot, amely a hagyomány szerint minden Istent követő embertől elvárható.
+- **Az univerzális erkölcsi elvek**: A zsidó hagyomány ismerte azt a koncepciót, hogy léteznek olyan alapvető isteni elvárások, amelyek nemcsak Izraelre, hanem az egész emberiségre érvényesek. Ezeket az elveket később a hét noahita törvényként kodifikálták.[^1] Kérdés, hogy a zsinati döntés pontjai mennyiben tükrözik ezt az univerzális erkölcsi minimumot, amely a hagyomány szerint minden Istent követő embertől elvárható.
 
 - **A specifikus „jövevénytörvények”**: A Mózesi Törvény, különösen a Leviticus 17–18. fejezeteiben, konkrét előírásokat tartalmazott az Izrael közösségében élő, de nem zsidó származású személyekre („jövevényekre”) vonatkozóan. Ezek a törvények olyan kritikus területeket szabályoztak (kultusz, étkezési szokások, szexuális etika), amelyek a zsidó és nem zsidó együttélés szempontjából alapvetőek voltak. Vizsgáljuk, hogy a zsinat rendelkezései mennyiben támaszkodhattak erre a konkrét, Szentíráson alapuló modellre a közösségi egység biztosítása érdekében.
 
@@ -59,6 +59,7 @@ Ezen túlmenően felvetjük azt a lehetőséget is, hogy a jeruzsálemi döntés
 
 A tanulmány tehát arra törekszik, hogy bemutassa ezeket a lehetséges értelmezési kereteket, részletezve azok történeti és teológiai hátterét, valamint kapcsolódásukat az ApCsel 15-ben leírt döntéshez. Célunk, hogy az olvasó teljesebb képet kapjon a jeruzsálemi zsinat határozatának összetettségéről, és maga mérlegelhesse az egyes modellek magyarázó erejét és relevanciáját.
 
+[^1]: A noahita törvények történeti fejlődésének és kodifikációjának részletes elemzéséért lásd David Novak, *The Image of the Non-Jew in Judaism: An Historical and Constructive Study of the Noahide Laws* (New York: Edwin Mellen Press, 1983), 11–35. o.
 
 # 2. A hét noahita törvény
 
@@ -68,7 +69,7 @@ A jeruzsálemi zsinat döntésének hátterét vizsgálva ennek a koncepciónak 
 
 ## 2.1 A koncepció történeti kialakulása és jelentősége
 
-A „hét noahita törvény” mint specifikus, rögzített lista nem szerepel expliciten ebben a formában a Bibliában. A koncepció fokozatosan alakult ki a rabbinikus judaizmuson belül a Tóra (különösen a Teremtés könyve) mélyreható értelmezése révén. A rabbik visszavezették ezeknek az alapelveknek a gyökereit Isten Ádámnak és Noénak adott parancsaira, úgy értelmezve, hogy ezek az egész emberiségre vonatkozó, örök érvényű isteni elvárások. Bár a lista pontos és részletes kidolgozása elsősorban a Talmud korszakában történt meg, különösen a Szanhedrin traktátusban (56a–60a[^1]), az alapelvek ennél korábbra nyúlnak vissza. Ilyen alapelvek például Isten egyedüliségének elismerése, az emberi élet szentsége, a tulajdon tisztelete, a család rendje és az igazságosságra való törekvés. Ezek már az I. századi zsidó gondolkodásban is mélyen gyökerezhettek, és az Isten által az egész világ számára rendelt erkölcsi minimumként értelmezték őket.
+A „hét noahita törvény” mint specifikus, rögzített lista nem szerepel expliciten ebben a formában a Bibliában. A koncepció fokozatosan alakult ki a rabbinikus judaizmuson belül a Tóra (különösen a Teremtés könyve) mélyreható értelmezése révén. A rabbik visszavezették ezeknek az alapelveknek a gyökereit Isten Ádámnak és Noénak adott parancsaira, úgy értelmezve, hogy ezek az egész emberiségre vonatkozó, örök érvényű isteni elvárások. Bár a lista pontos és részletes kidolgozása elsősorban a Talmud korszakában történt meg, különösen a Szanhedrin traktátusban (56a–60a[^2]), az alapelvek ennél korábbra nyúlnak vissza. Ilyen alapelvek például Isten egyedüliségének elismerése, az emberi élet szentsége, a tulajdon tisztelete, a család rendje és az igazságosságra való törekvés. Ezek már az I. századi zsidó gondolkodásban is mélyen gyökerezhettek, és az Isten által az egész világ számára rendelt erkölcsi minimumként értelmezték őket.
 
 Ezeknek az elveknek az ismertsége az apostolok számára egy lehetséges teológiai keretet biztosíthatott annak megértéséhez, hogy milyen alapvető erkölcsi normák várhatók el a pogányoktól, amikor csatlakoznak Isten népéhez Krisztusban. Mindez lehetővé tette, hogy ne kelljen rájuk róni a Sínai-szövetség specifikus törvényeit.
 
@@ -96,21 +97,25 @@ Ezek a törvények együttesen egy olyan átfogó erkölcsi keretrendszert alkot
 
 Ahhoz, hogy a noahita törvények koncepciója releváns háttér lehessen a jeruzsálemi zsinat számára, vizsgálni kell, mennyire voltak ismertek ezek az elvek az I. században. Több jel is utal arra, hogy az univerzális erkölcsi elvárások gondolata és annak bizonyos elemei valóban jelen voltak az apostoli kor zsidó kulturális közegében:
 
-- Jubileumok könyve[^2] (Kr. e. II–I. sz.) Noé unokáinak ad „parancsolatokat és rendeléseket”, közöttük a vérfogyasztás, a paráznaság és a bálványos tisztátalanság tiltását – pontosan azokat a területeket érintve, amelyek az apostoli dekrétumban is megjelennek. A szöveg qumráni leletei palesztinai ismertségét mutatják.
-- A hellenisztikus zsidó filozófus, Philo Alexandrinus a De specialibus legibus IV, 143–150 passzusban[^3] arról értekezik, hogy a nem írott törvények minden ember lelkébe „a szülőföldi szokásokként” vannak bevésve, említve a bálványimádás kerülését, a vérontás elutasítását és a tiszta erkölcsöt – fogalmi készlete hasonló az ApCsel 15 által érintett témákhoz.
-- A Tosefta Avoda Zara 8:4-es[^4] baraitája, amely a jeruzsálemi farizeus iskolák hagyományát őrzi és amelynek anyaga részben az I. századra datálható, expliciten felsorolja a klasszikus hét noahita törvényt. Pál, mint Gamáliel tanítványa, ismerhette ezt a hagyományt.
-- A palesztinai midrás-hagyomány, például a Genesis Rabbah 34:8[^5], szintén megerősíti a héttagú lista ismeretét ebben a korban.
-- Modern kutatók, mint Markus Bockmuehl[^6], rámutattak arra, hogy az ApCsel 15 négyes tilalma felfogható a noahita kánon egyfajta „rövidített formájaként”, amely ismerős lehetett a zsinagógákat látogató „istenfélő” pogányok számára.
+- Jubileumok könyve[^3] (Kr. e. II–I. sz.) Noé unokáinak ad „parancsolatokat és rendeléseket”, közöttük a vérfogyasztás, a paráznaság és a bálványos tisztátalanság tiltását – pontosan azokat a területeket érintve, amelyek az apostoli dekrétumban is megjelennek. A szöveg qumráni leletei palesztinai ismertségét mutatják.
+- A hellenisztikus zsidó filozófus, Philo Alexandrinus a De specialibus legibus IV, 143–150 passzusban[^4] arról értekezik, hogy a nem írott törvények minden ember lelkébe „a szülőföldi szokásokként” vannak bevésve, említve a bálványimádás kerülését, a vérontás elutasítását és a tiszta erkölcsöt – fogalmi készlete hasonló az ApCsel 15 által érintett témákhoz.
+- A Tosefta Avoda Zara 8:4-es[^5] baraitája, amely a jeruzsálemi farizeus iskolák hagyományát őrzi és amelynek anyaga részben az I. századra datálható, expliciten felsorolja a klasszikus hét noahita törvényt. Pál, mint Gamáliel tanítványa, ismerhette ezt a hagyományt.
+- A palesztinai midrás-hagyomány, például a Genesis Rabbah 34:8[^6], szintén megerősíti a héttagú lista ismeretét ebben a korban.
+- Modern kutatók, mint Markus Bockmuehl[^7], rámutattak arra, hogy az ApCsel 15 négyes tilalma felfogható a noahita kánon egyfajta „rövidített formájaként”, amely ismerős lehetett a zsinagógákat látogató „istenfélő” pogányok számára.
 
 Mindezek alapján feltételezhető, hogy az univerzális isteni elvárások gondolata, és annak elemei ismertek voltak az apostoli korban. Ezáltal a noahita törvények koncepciója _egy valós és releváns keretet kínál_, amelyből az apostolok meríthettek. A későbbi elemzés során visszatérünk arra, hogy ez a keret önmagában, vagy más tényezőkkel együtt hogyan viszonyul a zsinat konkrét döntéséhez.
 
-[^1]: _b. Sanhedrin 56a–60a_, ford. I. Epstein, _The Babylonian Talmud_ (London: Soncino, 1935).
-[^2]: Book of Jubilees 6:7–13; 7:20–28, in _Jubilees: A Commentary_, ed. James C. VanderKam and Sidnie White Crawford (Minneapolis: Fortress Press, 2018), 298, 331.
-[^3]: Philo, De specialibus legibus IV 143–150, ford. C. D. Yonge, in _The Works of Philo_ (Peabody: Hendrickson, 1993).
-[^4]: _Tosefta Avodah Zarah 8:4_; Jacob Neusner (szerk., ford.), The Tosefta II (2002) 1553.
-[^5]: _Genesis Rabbah 34:8_, ford. J. Neusner, Genesis Rabbah I (1985) 312.
-[^6]: Markus Bockmuehl, “The Noachide Commandments and New Testament Ethics,” _Revue Biblique_ 102 (1995): 72–101.
+[^2]: *b. Sanhedrin 56a–60a*. Fordította Jacob Shachter és H. Freedman. In: *The Babylonian Talmud*, szerk. I. Epstein (London: Soncino Press, 1935).
 
+[^3]: *Book of Jubilees 6:7–13; 7:20–28*. In: James C. VanderKam, *Jubilees: A Commentary*, Hermeneia—A Critical and Historical Commentary on the Bible (Minneapolis: Fortress Press, 2018), 298, 331. o.
+
+[^4]: Philo, *De specialibus legibus* IV 143–150. Fordította C. D. Yonge. In: *The Works of Philo* (Peabody, MA: Hendrickson Publishers, 1993), 622. o.
+
+[^5]: *Tosefta Avodah Zarah 8:4*. In: Jacob Neusner (ford.), *The Tosefta: Translated from the Hebrew with a New Introduction*, vol. 2 (Peabody, MA: Hendrickson Publishers, 2002), 1553. o.
+
+[^6]: *Genesis Rabbah 34:8*. In: Jacob Neusner (ford.), *Genesis Rabbah: The Judaic Commentary to the Book of Genesis, A New American Translation*, vol. 2 (Atlanta: Scholars Press, 1985), 5. o.
+
+[^7]: Markus Bockmuehl, „The Noachide Commandments and New Testament Ethics”, *Revue Biblique* 102 (1995), 72–101. o.
 
 # 3. A „jövevénytörvények”
 
@@ -118,9 +123,9 @@ Míg a noahita törvények koncepciója egy univerzális erkölcsi alapot kíná
 
 Kérdés: Vajon ez a Tórán belüli, konkrét helyzetekre adott válasz szolgált-e közvetlen mintaként az apostolok számára, amikor a pogánykeresztények befogadásának gyakorlati kérdéseivel szembesültek? Tekinthető-e a leviticusi modell annak a kulcsnak, amely elsősorban a közösségi egység megőrzését és a gyakorlati együttélés szabályozását célozta?
 
-## 3.1 A „jövevény” (_ger_) fogalma és helyzete a Tórában
+## 3.1 A „jövevény” *(ger)* fogalma és helyzete a Tórában
 
-A _ger_ fogalma olyan idegen származású személyt jelölt, aki nem csupán átutazó volt, hanem tartósan letelepedett Izrael földjén. Noha általában nem számított a szövetségi közösség teljes jogú tagjának (hiszen nem volt körülmetélve), helyzete mégsem volt azonos egy teljesen kívülállóéval. A Tóra számos helyen nyomatékosan előírja a jövevényekkel szembeni igazságos és szeretetteljes bánásmódot, emlékeztetve Izraelt saját egyiptomi múltjára (pl. Ex 22:20; Lev 19:33-34; Deut 10:19).
+A _ger_ fogalma olyan idegen származású személyt jelölt, aki nem csupán átutazó volt, hanem tartósan letelepedett Izrael földjén. Noha általában nem számított a szövetségi közösség teljes jogú tagjának (hiszen nem volt körülmetélve), helyzete mégsem volt azonos egy teljesen kívülállóéval.[^8] A Tóra számos helyen nyomatékosan előírja a jövevényekkel szembeni igazságos és szeretetteljes bánásmódot, emlékeztetve Izraelt saját egyiptomi múltjára (pl. Ex 22:20; Lev 19:33-34; Deut 10:19).
 
 Ugyanakkor a Tóra bizonyos alapvető törvények betartását a jövevényektől is elvárta. Ezek jellemzően olyan rendelkezések voltak, amelyek a közösség szentségének megőrzésével, a környező pogány kultuszoktól való szükséges elhatárolódással, valamint a békés társadalmi együttéléssel függtek össze. E törvények célja kettős volt: egyrészt megakadályozni az idegen vallási gyakorlatok negatív hatását Izrael Istennel való kapcsolatára és a Szentföldre, másrészt lehetővé tenni a zsidók és nem zsidók közötti mindennapi interakciót bizonyos alapvető normák közös elfogadása révén.
 
@@ -129,7 +134,7 @@ Ugyanakkor a Tóra bizonyos alapvető törvények betartását a jövevényektő
 Leviticus könyvének 17. és 18. fejezetei központi szerepet töltenek be a Törvény szentséggel kapcsolatos tanításában. Olyan kritikus területeket szabályoznak, amelyek az ókori Közel-Kelet vallási és társadalmi kontextusában kiemelt jelentőséggel bírtak, és amelyek gyakran a pogány népek kultikus gyakorlataihoz kapcsolódtak. Ezek a fejezetek több ponton kifejezetten kiterjesztik az előírásokat a jövevényekre is:
 
 - **Áldozatbemutatás és bálványimádás tilalma** (Lev 17:1–9): A fejezet szigorúan előírja, hogy minden vágóállatból származó áldozatot a szent sátor (később a Templom) bejáratához kell vinni, megtiltva a „mezőn” vagy „ördögöknek” (_szeirim_, démoni lényeknek) történő áldozatbemutatást. A szöveg expliciten kimondja: ez a rendelkezés egyaránt vonatkozik „_Izrael házára, vagy a köztük tartózkodó jövevényre_” (Lev 17:8). Ez az előírás közvetlenül kapcsolódik a bálványimádás és az ahhoz társuló kultikus étkezések elutasításához, ami párhuzamba állítható az ApCsel 15 bálványáldozati hústól való tartózkodásával.
-- **Vérfogyasztás tilalma** (Lev 17:10–14): Ez a szakasz tartalmazza talán a leggyakrabban ismételt és legsúlyosabb tilalmat a vér bármilyen formában történő fogyasztására vonatkozóan. Isten a vért az élet princípiumaként jelöli ki, amelynek engesztelő szerepe van az oltáron (Lev 17:11). Ezért a vér elfogyasztását mind az izraelitáknak, mind a jövevényeknek szigorúan megtiltja: „_És ha valaki Izrael házából, vagy a köztük tartózkodó jövevények közül valamiféle vért megeszik: kiontom haragomat az ellen, aki a vért megette, és kiirtom azt az ő népei közül._” (Lev 17:10). Ez a parancs egyértelmű párhuzamot mutat az ApCsel 15 vértől való tartózkodásával. A tilalom logikus gyakorlati következménye a nem megfelelően (fojtás által) megölt, tehát ki nem véreztetett állatok húsának kerülése is (vö. Lev 17:15 a döglött vagy széttépett állat evésének tisztátalanságáról), ami kapcsolatba hozható az ApCsel 15 fúlvaholt állattól való tartózkodásával.
+- **Vérfogyasztás tilalma** (Lev 17:10–14): Ez a szakasz tartalmazza talán a leggyakrabban ismételt és legsúlyosabb tilalmat a vér bármilyen formában történő fogyasztására vonatkozóan. Isten a vért az élet princípiumaként jelöli ki, amelynek engesztelő szerepe van az oltáron (Lev 17:11). Ezért a vér elfogyasztását mind az izraelitáknak, mind a jövevényeknek szigorúan megtiltja: „_És ha valaki Izrael házából, vagy a köztük tartózkodó jövevények közül valamiféle vért megeszik: kiontom haragomat az ellen, aki a vért megette, és kiirtom azt az ő népei közül._” (Lev 17:10). Ez a parancs egyértelmű párhuzamot mutat az ApCsel 15 vértől való tartózkodásával. A tilalom logikus gyakorlati következménye a nem megfelelően (fojtás által) megölt, tehát ki nem véreztetett állatok húsának kerülése is (vö. Lev 17:15 a döglött vagy széttépett állat evésének tisztátalanságáról), ami kapcsolatba hozható az ApCsel 15 fúlvaholt állattól való tartózkodásával.[^9]
 - **Tiltott szexuális kapcsolatok** (Lev 18): Ez a fejezet részletesen felsorolja azokat a szexuális viselkedésformákat (vérfertőzés különböző esetei, házasságtörés, homoszexuális aktusok, bestialitás), amelyeket Isten utálatosnak minősít, és amelyeket az Izraelt körülvevő népek (Egyiptom és Kánaán) gyakorlataként azonosít. A fejezet végén Isten komoly figyelmeztetést fogalmaz meg: ezen utálatosságok miatt űzi ki a kánaáni népeket, és a föld maga is „_kiokádja_” lakosait, ha azok ilyen módon beszennyezik azt. A fejezet explicit módon kiterjeszti e tilalmakat a jövevényekre is: „_Tartsátok meg azért ti az én rendeléseimet és végzéseimet, és ez utálatosságok közül semmit meg ne cselekedjetek, se a bennszülött, se a közöttetek tartózkodó jövevény_” (Lev 18:26). Ez párhuzamot mutat az ApCsel 15 paráznaságtól való tartózkodás követelményével.
 
 ## 3.3 A leviticusi minta jelentősége a jeruzsálemi döntésben
@@ -142,6 +147,9 @@ A Leviticus 17–18-ban található „jövevénytörvények” relevanciája a 
 
 Összefoglalva, a Leviticus 17–18-ban található, jövevényekre is vonatkozó törvények egy erős, Szentíráson alapuló magyarázó keretet kínálnak a jeruzsálemi zsinat döntésének megértéséhez. Ez a modell különösen a döntés konkrét tartalmát és gyakorlati, közösségi kohéziót célzó funkcióját világíthatja meg. A következő lépés annak vizsgálata, hogy ez a modell, a noahita keret, vagy esetleg a kettő kombinációja adja-e a legteljesebb képet a történtekről.
 
+[^8]: A *ger* komplex jogi és társadalmi státuszáról az ókori Izraelben lásd Jacob Milgrom, *Leviticus 17–22: A New Translation with Introduction and Commentary*, Anchor Bible 3A (New York: Doubleday, 2000), 1459–1464. o.
+
+[^9]: Vö. Milgrom részletes kommentárjával, amely a jövevényekre (*gerim*) vonatkozó törvények kontextusát és jelentését elemzi e fejezetekben. Milgrom, *Leviticus 17–22*, 1459–1464. o.
 
 # 4. A jeruzsálemi zsinat
 
@@ -152,7 +160,7 @@ A tanácskozás során több felszólalás hangzott el:
 
 - **Péter bizonyságtétele** (ApCsel 15:7–11): Péter emlékeztetett arra, hogy Isten őt választotta ki arra, hogy a pogányok (Kornéliusz és háza népe) először hallják meg az evangéliumot. Hangsúlyozta, hogy Isten nem tett különbséget zsidó és pogány között, hanem a Szentlélek kitöltésével tett bizonyságot mellettük, és „_hit által tisztította meg szívüket_”. Arra figyelmeztetett, hogy ne kísértsék Istent azzal, hogy olyan „_igát_” (a Törvényt) akarnak a tanítványok nyakába helyezni, amelyet sem atyáik, sem ők nem tudtak elhordozni. Kijelentette, hogy mind zsidók, mind pogányok „_az Úr Jézus Krisztus kegyelme által_” üdvözülnek.
 - **Pál és Barnabás beszámolója** (ApCsel 15:12): A misszionáriusok elbeszélték azokat a „_jeleket és csodákat_”, amelyeket Isten általuk cselekedett a pogányok között, ezzel is alátámasztva Isten munkájának valóságát és elfogadását a nemzetek körében.
-- **Jakab összefoglalása és javaslata** (ApCsel 15:13–21): Jakab, a jeruzsálemi gyülekezet vezetője, összefoglalta a helyzetet. Egyetértett Péterrel, rámutatva, hogy a pogányok megtérése összhangban van a prófétai ígéretekkel (idézve Ámosz 9:11–12 LXX fordítását), miszerint Isten helyreállítja Dávid sátorát, hogy „_megkeresse az emberek maradéka az Urat, és a pogányok mindnyájan, akikről az én nevem neveztetett_”. Jakab ebből azt a következtetést vonta le, hogy nem szabad „_megnehezíteni_” azoknak a pogányoknak a dolgát, akik Istenhez térnek. Ugyanakkor javaslatot tett egy konkrét iránymutatás megfogalmazására: „_Hanem írjuk meg nekik, hogy tartózkodjanak a bálványok fertelmességeitől [vagy: tisztátalanságaitól], a paráznaságtól, a fúlva holt állattól és a vértől._” Javaslatát azzal indokolta, hogy „_Mert Mózesnek régi nemzedékek óta városonként megvannak a hirdetői, mivelhogy a zsinagógákban minden szombaton olvassák._” (ApCsel 15:21) – utalva ezzel valószínűleg arra, hogy ezek a pontok segíthetnek a zsidó és pogány hívek közötti békés együttélésben, tekintettel a Törvényt ismerő és tisztelő zsidókeresztények érzékenységére.
+- **Jakab összefoglalása és javaslata** (ApCsel 15:13–21): Jakab, a jeruzsálemi gyülekezet vezetője, összefoglalta a helyzetet. Egyetértett Péterrel, rámutatva, hogy a pogányok megtérése összhangban van a prófétai ígéretekkel (idézve Ámosz 9:11–12 LXX fordítását), miszerint Isten helyreállítja Dávid sátorát, hogy „_megkeresse az emberek maradéka az Urat, és a pogányok mindnyájan, akikről az én nevem neveztetett_”. Jakab ebből azt a következtetést vonta le, hogy nem szabad „_megnehezíteni_” azoknak a pogányoknak a dolgát, akik Istenhez térnek.[^10] Ugyanakkor javaslatot tett egy konkrét iránymutatás megfogalmazására: „_Hanem írjuk meg nekik, hogy tartózkodjanak a bálványok fertelmességeitől [vagy: tisztátalanságaitól], a paráznaságtól, a fúlva holt állattól és a vértől._” Javaslatát azzal indokolta, hogy „_Mert Mózesnek régi nemzedékek óta városonként megvannak a hirdetői, mivelhogy a zsinagógákban minden szombaton olvassák._” (ApCsel 15:21) – utalva ezzel valószínűleg arra, hogy ezek a pontok segíthetnek a zsidó és pogány hívek közötti békés együttélésben, tekintettel a Törvényt ismerő és tisztelő zsidókeresztények érzékenységére.[^11]
 
 A zsinat, a Szentlélekkel való egyetértését hangsúlyozva („_tetszett a Szentléleknek és nekünk_” – ApCsel 15:28), elfogadta Jakab javaslatát. A döntést levél formájában közölték az antiókhiai, szíriai és ciliciai gyülekezetekkel (ApCsel 15:23–29). A levél megerősítette, hogy a pogány híveket nem terhelik a Mózesi Törvény előírásai (beleértve a körülmetélkedést), kivéve a négy említett „_szükséges_” dolgot:
 
@@ -170,8 +178,13 @@ Az első utalás már a következő fejezetben feltűnik: Pál és Timóteus út
 
 A későbbi jeruzsálemi jelenet (ApCsel 21:17–26) bizonyítja, hogy a rendelkezések tekintélye évek múltán is sértetlen. Jakab a négy tiltást szó szerint idézi, és ezzel legitimizálja Pál misszióját a zsidókeresztények előtt; a levél így konfliktuskezelő „közös nevezővé” válik.
 
-Finomabb utalások az étkezési és közösségi jelenetek hátterében bukkannak fel (pl. ApCsel 18:18, 20:20). Pál ezzel csendben érvényesíti a levél szellemét: a törvények listája helyett a testvéri tapintat válik hangsúlyossá. Lukács narratívája ily módon több ponton is érzékelteti, hogy a jeruzsálemi döntés nem illant el, hanem élő irányelvként kíséri az apostoli misszió útját.
+Finomabb utalások az étkezési és közösségi jelenetek hátterében bukkannak fel (pl. ApCsel 18:18, 20:20). Pál ezzel csendben érvényesíti a levél szellemét: a törvények listája helyett a testvéri tapintat válik hangsúlyossá. Lukács narratívája ily módon több ponton is érzékelteti, hogy a jeruzsálemi döntés nem illant el, hanem élő irányelvként kíséri az apostoli misszió útját.[^12]
 
+[^10]: Bauckham itt elemzi Jakab érvelésének pragmatikus és teológiai hátterét, amely a misszió megkönnyítését célozta. Richard Bauckham, „James and the Gentiles (Acts 15.13–21)”, in *History, Literature and Society in the Book of Acts*, szerk. Ben Witherington III (Cambridge: Cambridge University Press, 1996), 176–178. o.
+
+[^11]: E vers értelmezéséről, miszerint Jakab a zsidó és pogány hívek közötti asztalközösség gyakorlati akadályait kívánta elhárítani, lásd Bauckham, „James and the Gentiles”, 179–181. o.
+
+[^12]: Witherington a kommentárjában összeköti ezeket az eseményeket, kiemelve a jeruzsálemi döntés folyamatos relevanciáját a gyülekezetek életében. Ben Witherington III, *The Acts of the Apostles: A Socio-Rhetorical Commentary* (Grand Rapids, MI: Eerdmans, 1998), 482, 645–648. o.
 
 # 5. Értelmezési modellek
 
@@ -215,7 +228,7 @@ Ez a megközelítés azt hangsúlyozza, hogy az apostoli döntés közvetlenül 
 
 ## 5.3 Harmadik modell: a döntés mint szintézis
 
-Ez az értelmezés abból indul ki, hogy az apostoli döntés nem kizárólag az egyik vagy a másik keretre épült, hanem a Szentlélek vezetése alatt egy tudatos vagy pragmatikus szintézist hozott létre.  Eszerint az apostolok olyan pontokat emeltek ki, amelyek egyszerre képviseltek alapvető, univerzális erkölcsi elveket (amelyek a noahita koncepcióban is tükröződnek) és feleltek meg a Leviticusban lefektetett, a közösségi együttélés szempontjából kritikus gyakorlati előírásoknak.
+Ez az értelmezés abból indul ki, hogy az apostoli döntés nem kizárólag az egyik vagy a másik keretre épült, hanem a Szentlélek vezetése alatt egy tudatos vagy pragmatikus szintézist hozott létre.[^13]  Eszerint az apostolok olyan pontokat emeltek ki, amelyek egyszerre képviseltek alapvető, univerzális erkölcsi elveket (amelyek a noahita koncepcióban is tükröződnek) és feleltek meg a Leviticusban lefektetett, a közösségi együttélés szempontjából kritikus gyakorlati előírásoknak.
 
 **A tilalmak magyarázata e modell szerint:** A négy pontot azért választották ki, mert ezek jelentették a legnagyobb metszetet az univerzális erkölcsi elvárások és a zsidó-pogány együttélés legkonfliktusosabb területei között, amelyekre a Leviticus már adott iránymutatást:
 
@@ -229,6 +242,7 @@ Ez az értelmezés abból indul ki, hogy az apostoli döntés nem kizárólag az
 
 E három modell – a noahita, a leviticusi és a szintézis – bemutatása rávilágít a jeruzsálemi zsinat döntése mögött meghúzódó lehetséges teológiai és gyakorlati megfontolások összetettségére. A következő fejezetben összegezzük a tanulságokat és levonjuk a következtetéseket a bemutatott keretek fényében.
 
+[^13]: A döntésnek mint a Szentlélek által vezérelt pragmatikus és kontextuális megoldásnak a koncepciójához vö. Craig S. Keener, *Spirit Hermeneutics: Reading Scripture in Light of Pentecost* (Grand Rapids, MI: Eerdmans, 2016), 112–115. o.
 
 # 6. Összegzés
 
@@ -244,10 +258,9 @@ A történeti valóság valószínűleg összetettebb volt annál, semhogy egyet
 
 Akár a noahita elvek univerzális érvényét, akár a leviticusi törvények konkrét gyakorlatiasságát, akár a kettő bölcs ötvözetét látjuk meghatározónak, a jeruzsálemi zsinat döntése kétségtelenül sorsfordító jelentőségű volt. Lehetővé tette a kegyelem evangéliumának akadálytalan terjedését a nemzetek között a Mózesi Törvény terhei nélkül, miközben alapvető erkölcsi és közösségi kereteket is kijelölt. Az Apostolok Cselekedeteinek hangsúlya a Szentlélek egyetértésén (ApCsel 15:28) arra utal, hogy maguk a résztvevők is isteni bölcsességet láttak működni ebben a döntésben, amely képes volt áthidalni a kulturális és teológiai szakadékokat, és utat nyitni az egyház egyetemes küldetése előtt. A döntés hátterének vizsgálata így nemcsak történeti érdekesség, hanem az isteni vezetés és az egyházi bölcsesség működésének mélyebb megértéséhez is hozzájárulhat.
 
-
 # 7. A jeruzsálemi döntés hatása napjainkban
 
-A jeruzsálemi zsinat következményei máig érezhetők; az ott levont tanulságok ma is megszólítanak minket, keresztényeket és közösségeinket. A középpontban álló kérdés – a kegyelem és a törvény kapcsolata – nem veszített aktualitásából. Péter kijelentése világos: az üdvösség Isten kegyelméből fakad Krisztusban, nem pedig a Törvény előírásainak teljesítéséből. Gyakran ma is azon kapjuk magunkat, hogy emberi szabályokat, kulturális elvárásokat vagy teljesítmény-mércéket adunk hozzá a Krisztusban való élet egyszerűségéhez. A zsinat figyelmeztet, hogy ne terheljük magunkat vagy másokat felesleges elvárásokkal, amelyek csökkenthetik a kegyelem jelentőségét.
+A jeruzsálemi zsinat következményei máig érezhetők; az ott levont tanulságok ma is megszólítanak minket, keresztényeket és közösségeinket. A középpontban álló kérdés – a kegyelem és a törvény kapcsolata – nem veszített aktualitásából.[^14] Péter kijelentése világos: az üdvösség Isten kegyelméből fakad Krisztusban, nem pedig a Törvény előírásainak teljesítéséből. Gyakran ma is azon kapjuk magunkat, hogy emberi szabályokat, kulturális elvárásokat vagy teljesítmény-mércéket adunk hozzá a Krisztusban való élet egyszerűségéhez. A zsinat figyelmeztet, hogy ne terheljük magunkat vagy másokat felesleges elvárásokkal, amelyek csökkenthetik a kegyelem jelentőségét.
 
 Ez a szabadság azonban nem jelentett felmentést az erkölcsi felelősség alól. A négy konkrét tartózkodási pont mutatja: szükséges volt elhatárolódni bizonyos, a környezetükben bevett gyakorlatoktól. Ez a helyzet minket is elgondolkodtat: melyek azok az alapvető etikai irányelvek, amelyek a keresztény élethez tartoznak ma, és hogyan viszonyuljunk a minket körülvevő társadalom normáihoz?
 
@@ -257,35 +270,36 @@ Fontos az is, hogyan született meg ez a döntés. Az apostolok és a vének meg
 
 A jeruzsálemi zsinat tehát olyan alapvető témákat érintett, amelyekkel nekünk, mai keresztényeknek is dolgunk van, miközben Isten vezetését keressük a saját korunkban és helyzetünkben.
 
+[^14]: A jeruzsálemi zsinat kulcsszerepéről a kegyelem és törvény viszonyának korai keresztény teológiájában, különösen Pál gondolkodásának kontextusában, részletesen ír James D. G. Dunn, *The Theology of Paul the Apostle* (Grand Rapids, MI: Eerdmans, 1998), 186–190. o.
+
 `***`
 
+# Irodalomjegyzék
 
-# 8. Irodalomjegyzék
+Bauckham, Richard. „James and the Gentiles (Acts 15.13–21).” In *History, Literature and Society in the Book of Acts*, szerk. Ben Witherington III, 154–184. Cambridge: Cambridge University Press, 1996.
 
-Bauckham, Richard. „James and the Gentiles (Acts 15.13–21).” In _History, Literature and Society in the Book of Acts_, szerk. Ben Witherington III, 154–84. Cambridge: Cambridge University Press, 1996.
+Bockmuehl, Markus. „The Noachide Commandments and New Testament Ethics.” *Revue Biblique* 102 (1995): 72–101.
 
-Bockmuehl, Markus. „The Noachide Commandments and New Testament Ethics.” _Revue Biblique_ 102 (1995): 72–101.
+Bruce, F. F. *The Book of the Acts*. New International Commentary on the New Testament. Grand Rapids, MI: Eerdmans, 1988.
 
-Bruce, F. F. _The Book of the Acts_. New International Commentary on the New Testament. Grand Rapids, MI: Eerdmans, 1988.
+Dunn, James D. G. *The Theology of Paul the Apostle*. Grand Rapids, MI: Eerdmans, 1998.
 
-Dunn, James D. G. _The Theology of Paul the Apostle_. Grand Rapids, MI: Eerdmans, 1998.
+Epstein, Isidore, szerk. *The Babylonian Talmud*. 35 vols. London: Soncino, 1935–1952.
 
-Epstein, Isidore, szerk. _The Babylonian Talmud_. London: Soncino, 1935. (Szanhedrin traktátus)
+Keener, Craig S. *Spirit Hermeneutics: Reading Scripture in Light of Pentecost*. Grand Rapids, MI: Eerdmans, 2016.
 
-Keener, Craig S. Spirit Hermeneutics: _Reading Scripture in Light of Pentecost_. Grand Rapids, MI: Eerdmans, 2016.
+Milgrom, Jacob. *Leviticus 17–22: A New Translation with Introduction and Commentary*. Anchor Bible 3A. New York: Doubleday, 2000.
 
-Milgrom, Jacob. _Leviticus 17–22: A New Translation with Introduction and Commentary_. Anchor Bible 3A New York: Doubleday, 2000.
+Neusner, Jacob, ford. *Genesis Rabbah: The Judaic Commentary to the Book of Genesis, A New American Translation*. 3 vols. Atlanta: Scholars Press, 1985.
 
-Neusner, Jacob, ford. _Genesis Rabbah: The Judaic Commentary to the Book of Genesis_. 3 köt. Atlanta: Scholars Press, 1985. (1. kötet)
+Neusner, Jacob, ford. *The Tosefta: Translated from the Hebrew with a New Introduction*. 2 vols. Peabody, MA: Hendrickson Publishers, 2002.
 
-Neusner, Jacob, szerk. és ford. _The Tosefta: Translated from the Hebrew_. 2 köt. Peabody, MA: Hendrickson, 2002. (Avodah Zarah 8:4)
+Novak, David. *The Image of the Non-Jew in Judaism: An Historical and Constructive Study of the Noahide Laws*. New York: Edwin Mellen Press, 1983.
 
-Novak, David. _The Image of the Non Jew in Judaism: An Historical and Constructive Study of the Noahide Laws_. New York: Oxford University Press, 1983.
+VanderKam, James C. *Jubilees: A Commentary*. Hermeneia—A Critical and Historical Commentary on the Bible. Minneapolis: Fortress Press, 2018.
 
-VanderKam, James C., és Sidnie White Crawford, szerk. _Jubilees: A Commentary_. Hermeneia. 2 köt. Minneapolis: Fortress Press, 2018.
+Witherington, Ben III. *The Acts of the Apostles: A Socio-Rhetorical Commentary*. Grand Rapids, MI: Eerdmans, 1998.
 
-Witherington, Ben III. _The Acts of the Apostles: A Socio Rhetorical Commentary_. Grand Rapids, MI: Eerdmans, 1998.
-
-Yonge, C. D., ford. _The Works of Philo: Complete and Unabridged._ Peabody, MA: Hendrickson, 1993. (De specialibus legibus)
+Yonge, C. D., ford. *The Works of Philo: Complete and Unabridged*. Peabody, MA: Hendrickson Publishers, 1993.
 
 
