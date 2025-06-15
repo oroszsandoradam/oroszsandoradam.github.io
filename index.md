@@ -1,6 +1,6 @@
 ---
 title: Bibliai tanulmányok
-description: Orosz Sándor Ádám publikációi
+description: Orosz Sándor Ádám kutatásai
 ---
 
 # 📚 Tartalmi áttekintés
