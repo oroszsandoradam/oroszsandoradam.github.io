@@ -31,7 +31,7 @@ A tanulmány azt vizsgálja, mit ért Pál „tartozás” alatt a Róm 15,26–
 
 ---
 
-- [Bevezetés](#bevezetes)
+- [Bevezetés](#bevezetés)
 - [1. A „tartozás” kettős természete](##-1-A-„tartozás”-kettős-természete)
 - [2. A tartozás szereplői és feltételei](##-2-A-tartozás-szereplői-és-feltételei)
 - [3. A tartozás teológiai alapja](##-3-A-tartozás-teológiai-alapja)
