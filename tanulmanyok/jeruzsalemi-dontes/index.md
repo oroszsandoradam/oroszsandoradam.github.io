@@ -24,7 +24,7 @@ A jeruzsálemi zsinat döntése egyszerre oldott fel teológiai feszültséget �
 
 
 <div style="text-align: center;">
-  <img src="Cover.jpg" alt="Borítókép" style="width: 400px; height: auto;" />
+  <img src="cover.jpg" alt="Borítókép" style="width: 400px; height: auto;" />
 </div>
 
 > *„A Szentléleknek és nékünk tetszett…” (ApCsel 15:28)*
