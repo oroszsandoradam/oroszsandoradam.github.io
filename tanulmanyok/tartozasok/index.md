@@ -32,9 +32,9 @@ A tanulmány azt vizsgálja, mit ért Pál „tartozás” alatt a Róm 15,26–
 ---
 
 - [Bevezetés](#-bevezetés)
-- [1. A „tartozás” kettős természete](##-1.-A-„tartozás”-kettős-természete)
-- [2. A tartozás szereplői és feltételei](##-A-tartozás-szereplői-és-feltételei)
-- [3. A tartozás teológiai alapja](##-A-tartozás-teológiai-alapja)
+- [1. A „tartozás” kettős természete](##-1-A-„tartozás”-kettős-természete)
+- [2. A tartozás szereplői és feltételei](##-2-A-tartozás-szereplői-és-feltételei)
+- [3. A tartozás teológiai alapja](##-3-A-tartozás-teológiai-alapja)
 - [4. A kapcsolat szerepe a tartozásban](#-A-kapcsolat-szerepe-a-tartozásban)
 - [5. Időben korlátozott esemény vagy időtlen elv?](#-Időben-korlátozott-esemény-vagy-időtlen-elv?)
 - [6. A tartozás üdvtörténeti gyökerei](#-A-tartozás-üdvtörténeti-gyökerei)
