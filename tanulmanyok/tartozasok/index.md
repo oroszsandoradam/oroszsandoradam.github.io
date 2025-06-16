@@ -32,15 +32,15 @@ A tanulmány azt vizsgálja, mit ért Pál „tartozás” alatt a Róm 15,26–
 ---
 
 - [Bevezetés](#bevezetés)
-- [1. A „tartozás” kettős természete](##-1-A-„tartozás”-kettős-természete)
-- [2. A tartozás szereplői és feltételei](##-2-A-tartozás-szereplői-és-feltételei)
-- [3. A tartozás teológiai alapja](##-3-A-tartozás-teológiai-alapja)
-- [4. A kapcsolat szerepe a tartozásban](#-A-kapcsolat-szerepe-a-tartozásban)
-- [5. Időben korlátozott esemény vagy időtlen elv?](#-Időben-korlátozott-esemény-vagy-időtlen-elv?)
-- [6. A tartozás üdvtörténeti gyökerei](#-A-tartozás-üdvtörténeti-gyökerei)
-- [7. A tartozás elvének alkalmazása napjainkban](#-A-tartozás-elvének-alkalmazása-napjainkban)
-- [Záró összegzés](#-Záró-összegzés)
-- [Irodalomjegyzék](#-Irodalomjegyzék)
+- [1. A „tartozás” kettős természete](#1-a-tartozás-kettős-természete)
+- [2. A tartozás szereplői és feltételei](#2-a-tartozás-szereplői-és-feltételei)
+- [3. A tartozás teológiai alapja](#3-a-tartozás-teológiai-alapja)
+- [4. A kapcsolat szerepe a tartozásban](#4-a-kapcsolat-szerepe-a-tartozásban)
+- [5. Időben korlátozott esemény vagy időtlen elv?](#5-időben-korlátozott-esemény-vagy-időtlen-elv)
+- [6. A tartozás üdvtörténeti gyökerei](#6-a-tartozás-üdvtörténeti-gyökerei)
+- [7. A tartozás elvének alkalmazása napjainkban](#7-a-tartozás-elvének-alkalmazása-napjainkban)
+- [Záró összegzés](#záró-összegzés)
+- [Irodalomjegyzék](#irodalomjegyzék)
 
 ---
 
