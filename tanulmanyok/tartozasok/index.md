@@ -24,7 +24,7 @@ A tanulmány azt vizsgálja, mit ért Pál „tartozás” alatt a Róm 15,26–
 
 
 <div style="text-align: center;">
-  <img src="Cover.jpg" alt="Borítókép" style="width: 400px; height: auto;" />
+  <img src="cover.jpg" alt="Borítókép" style="width: 400px; height: auto;" />
 </div>
 
 ## 🧭 Tartalomjegyzék
