@@ -13,6 +13,7 @@ Minden írás külön oldalon olvasható, és PDF formátumban is letölthető.
 ## 🧭 Elérhető tanulmányok
 
 - [A jeruzsálemi döntés - Az apostoli zsinat határozatának értelmezési keretei](/tanulmanyok/jeruzsalemi-dontes/)
+---
 - [Tartozások - Gyűjtés a jeruzsálemi gyülekezet szegényeinek: Teológia és mai relevancia](/tanulmanyok/tartozasok/)
 
 ---
