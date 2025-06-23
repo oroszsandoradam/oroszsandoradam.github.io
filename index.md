@@ -20,6 +20,7 @@ Minden írás külön oldalon olvasható, és PDF formátumban is letölthető.
 
 ## ℹ️ Megjegyzés
 
-A tanulmányok többsége szabadon megosztható a Creative Commons BY 4.0 licenc szerint.
-A pontos felhasználási feltételek minden írásnál külön olvashatók.
-Az oldal folyamatosan bővül újabb tanulmányokkal.
+A tanulmányok többsége a Creative Commons BY 4.0 licenc feltételei szerint szabadon megosztható.
+Egyes írások azonban „Minden jog fenntartva” megjelöléssel szerepelnek.
+A felhasználási feltételek minden egyes műnél külön olvashatók.
+Az oldal tartalma folyamatosan új tanulmányokkal bővül.
