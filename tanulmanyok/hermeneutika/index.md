@@ -28,8 +28,6 @@ A Hermeneutikai alapvetés egy rendszerezett módszertant kínál a felelős bib
 
 ## 🧭 Tartalomjegyzék
 
----
-
 - [Bevezetés](#bevezetés)
 - [Fundamentum](#fundamentum)
 - [Értelmezési és módszertani irányelvek](#értelmezési-és-módszertani-irányelvek)
