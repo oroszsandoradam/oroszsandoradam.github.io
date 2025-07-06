@@ -55,7 +55,7 @@ Bízom benne, hogy a bemutatott elvek nem akadályt, hanem támpontot jelentenek
 
 # Fundamentum
 
-*A teljes Írás Istentől ihletett, és hasznos a tanításra, a feddésre, a megjobbításra, az igazságban való nevelésre; hogy Isten embere tökéletes és minden jó cselekedetre felkészített legyen.*  
+>*A teljes Írás Istentől ihletett, és hasznos a tanításra, a feddésre, a megjobbításra, az igazságban való nevelésre; hogy Isten embere tökéletes és minden jó cselekedetre felkészített legyen.*  
 (2Timóteus 3:16–17, RÚF 2014)
 
 ### 1. A Szentlélek hermeneutikai elsőbbsége
