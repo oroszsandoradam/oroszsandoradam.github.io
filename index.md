@@ -16,6 +16,8 @@ Minden írás külön oldalon olvasható, és PDF formátumban is letölthető.
 
 - [Tartozások - Gyűjtés a jeruzsálemi gyülekezet szegényeinek: Teológia és mai relevancia](/tanulmanyok/tartozasok/)
 
+- [Hermeneutikai alapvetés - A felelősségteljes bibliatanulmányozás rendszerezett módszertana](/tanulmanyok/hermeneutika/)
+
 ---
 
 ## ℹ️ Megjegyzés
