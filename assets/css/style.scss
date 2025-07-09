@@ -3,31 +3,29 @@
 
 @import 'jekyll-theme-cayman';
 
-/* ----- Egyedi lábléc stílusok ----- */
+/* ----- Egyedi lábléc stílusok (egyoszlopos) ----- */
 
 .site-footer {
-  /* 1. Flexbox elrendezés aktiválása */
-  display: flex;
-  flex-wrap: wrap;          /* Engedélyezi a sortörést, ha nem férnek el az elemek */
-  justify-content: center;  /* Vízszintesen középre rendezi a két "oszlopot" */
-  gap: 5px 20px;            /* 5px sorköz, 20px oszlopköz (függőleges és vízszintes távolság) */
-  text-align: center;       /* A szöveget minden elemen belül középre igazítja */
-  border-top: none;         /* Eltávolítja a lábléc feletti vonalat (opcionális, de letisztultabb) */
-  padding-top: 1rem;        /* Kisebb térköz a lábléc felett */
+  /* Alapbeállítások a lábléc konténernek */
+  text-align: center;       /* A szöveget középre igazítja */
+  border-top: none;         /* Eltávolítja a lábléc feletti elválasztó vonalat (opcionális) */
+  padding-top: 1rem;        /* Kisebb térköz a lábléc és a tartalom között */
 }
 
-/* 2. A láblécen belüli szövegelemek (span) formázása */
-/*.site-footer span {
-  /* Két oszlopos elrendezés létrehozása: minden elem kb. a szélesség felét foglalja el */
-  flex-basis: 45%; 
-  flex-grow: 1;*/
+/* A láblécen belüli szövegelemek (span) formázása */
+.site-footer span {
+  /* Külön sorba kényszerítjük az elemeket */
+  display: block;
 
   /* Kisebb betűméret és sorköz */
   font-size: 0.85em;        /* Kisebb betűk (az eredeti méret 85%-a) */
   line-height: 1.4;         /* Kompakt sorköz */
+
+  /* Minimális térköz az elemek között (sorköz) */
+  margin-bottom: 5px;       
 }
 
-/* 3. A feleslegessé vált sortörések (<br>) elrejtése */
+/* A feleslegessé vált sortörések (<br>) elrejtése */
 .site-footer br {
   display: none;
 }
