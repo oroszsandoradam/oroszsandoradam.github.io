@@ -43,3 +43,6 @@ A jeruzsálemi zsinat döntése egyszerre oldott fel teológiai feszültséget �
 - [8. Irodalomjegyzék](#8-irodalomjegyzék)
 
 ---
+
+{% capture tartalom %}{% include jeruzsalemi_dontes.md %}{% endcapture %}
+{{ tartalom | markdownify }}
