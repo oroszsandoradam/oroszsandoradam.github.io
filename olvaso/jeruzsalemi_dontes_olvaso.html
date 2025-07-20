@@ -6,21 +6,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Jeruzsálemi döntés - Online Olvasó</title>
-  <style>
-    /* Itt van a teljes CSS kód az olvasóhoz... */
-    body { font-family: Georgia, 'Times New Roman', Times, serif; line-height: 1.7; margin: 0; background-color: #fdfdfd; color: #333; }
-    main { padding: 2em 4em; max-width: 800px; margin: auto; font-size: 110%; }
-    .reader-button { background: #fff; border: 1px solid #ccc; border-radius: 4px; padding: 0.5em 0.8em; font-size: 1em; font-weight: bold; cursor: pointer; user-select: none; }
-    .reader-button:hover { background-color: #f0f0f0; }
-    #toggle-toc { position: fixed; top: 1em; left: 1em; z-index: 1000; }
-    .font-controls { position: fixed; top: 1em; right: 1em; z-index: 1000; }
-    .font-controls button { margin-left: 0.5em; }
-    nav#toc { position: fixed; top: 0; left: -310px; width: 300px; height: 100vh; padding: 1em; padding-top: 4em; background: #f7f7f7; box-shadow: 2px 0 5px rgba(0,0,0,0.1); overflow-y: auto; transition: left 0.3s ease; z-index: 999; }
-    nav#toc a { display: block; padding: 0.5em; text-decoration: none; color: #0056b3; border-radius: 4px; }
-    nav#toc a:hover { background-color: #e9ecef; }
-    nav#toc a.level-h3 { padding-left: 2em; }
-    nav#toc.open { left: 0; }
-  </style>
+  <link rel="stylesheet" href="{{ '/assets/css/reader-style.css' | relative_url }}">
 </head>
 <body>
   <button id="toggle-toc" class="reader-button">☰ Menü</button>
