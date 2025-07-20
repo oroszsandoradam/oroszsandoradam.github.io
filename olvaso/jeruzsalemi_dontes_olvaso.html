@@ -1,1 +1,65 @@
-
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jeruzsálemi döntés - Online Olvasó</title>
+  <style>
+    /* Itt van a teljes CSS kód az olvasóhoz... */
+    body { font-family: Georgia, 'Times New Roman', Times, serif; line-height: 1.7; margin: 0; background-color: #fdfdfd; color: #333; }
+    main { padding: 2em 4em; max-width: 800px; margin: auto; font-size: 110%; }
+    .reader-button { background: #fff; border: 1px solid #ccc; border-radius: 4px; padding: 0.5em 0.8em; font-size: 1em; font-weight: bold; cursor: pointer; user-select: none; }
+    .reader-button:hover { background-color: #f0f0f0; }
+    #toggle-toc { position: fixed; top: 1em; left: 1em; z-index: 1000; }
+    .font-controls { position: fixed; top: 1em; right: 1em; z-index: 1000; }
+    .font-controls button { margin-left: 0.5em; }
+    nav#toc { position: fixed; top: 0; left: -310px; width: 300px; height: 100vh; padding: 1em; padding-top: 4em; background: #f7f7f7; box-shadow: 2px 0 5px rgba(0,0,0,0.1); overflow-y: auto; transition: left 0.3s ease; z-index: 999; }
+    nav#toc a { display: block; padding: 0.5em; text-decoration: none; color: #0056b3; border-radius: 4px; }
+    nav#toc a:hover { background-color: #e9ecef; }
+    nav#toc a.level-h3 { padding-left: 2em; }
+    nav#toc.open { left: 0; }
+  </style>
+</head>
+<body>
+  <button id="toggle-toc" class="reader-button">☰ Menü</button>
+  <div class="font-controls">
+    <button id="decrease-font" class="reader-button">A-</button>
+    <button id="increase-font" class="reader-button">A+</button>
+  </div>
+  <nav id="toc"></nav>
+  <main id="content">
+    {% capture tartalom %}{% include jeruzsalemi_dontes.md %}{% endcapture %}
+    {{ tartalom | markdownify }}
+  </main>
+  <script>
+    // Itt van a teljes JavaScript kód...
+    document.addEventListener('DOMContentLoaded', function() {
+      const content = document.getElementById('content');
+      const tocContainer = document.getElementById('toc');
+      const headers = content.querySelectorAll("h2, h3");
+      if (headers.length > 0) {
+        headers.forEach(h => {
+          const link = document.createElement("a");
+          const id = h.textContent.trim().replace(/\s+/g, '-').toLowerCase().replace(/[^a-z0-9-]/g, '');
+          h.id = id;
+          link.href = "#" + id;
+          link.textContent = h.textContent;
+          if(h.tagName === 'H3') { link.classList.add('level-h3'); }
+          tocContainer.appendChild(link);
+        });
+      } else {
+        tocContainer.innerHTML = '<p>Nincsenek fejezetcímek.</p>';
+        document.getElementById('toggle-toc').style.display = 'none';
+      }
+      const toggleButton = document.getElementById('toggle-toc');
+      toggleButton.addEventListener('click', function() { tocContainer.classList.toggle('open'); });
+      tocContainer.addEventListener('click', function(e) { if (e.target.tagName === 'A') { tocContainer.classList.remove('open'); } });
+      const increaseFontBtn = document.getElementById('increase-font');
+      const decreaseFontBtn = document.getElementById('decrease-font');
+      let currentFontSize = 110;
+      increaseFontBtn.addEventListener('click', function() { if (currentFontSize < 200) { currentFontSize += 10; content.style.fontSize = currentFontSize + '%'; } });
+      decreaseFontBtn.addEventListener('click', function() { if (currentFontSize > 70) { currentFontSize -= 10; content.style.fontSize = currentFontSize + '%'; } });
+    });
+  </script>
+</body>
+</html>
