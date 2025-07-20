@@ -4,8 +4,9 @@
         const tocContainer = document.getElementById('toc');
 
         // ----- EZT A SORT MÓDOSÍTOTTUK -----
-        const headers = content.querySelectorAll("h1, h2, h3");
-
+        const headers = content.querySelectorAll("h1");
+        //const headers = content.querySelectorAll("h1, h2, h3");
+            
         if (headers.length > 0) {
           headers.forEach(h => {
             const link = document.createElement("a");
