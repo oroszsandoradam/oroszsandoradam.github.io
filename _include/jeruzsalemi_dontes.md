@@ -1,16 +1,3 @@
-## 🧭 Tartalomjegyzék
-
-- [1. Bevezetés](#1-bevezetes)
-- [2. A hét noahita törvény](#2-a-hét-noahita-törvény)
-- [3. A „jövevénytörvények”](#3-a-jövevénytörvények)
-- [4. A jeruzsálemi zsinat](#4-a-jeruzsálemi-zsinat)
-- [5. Értelmezési modellek](#5-értelmezési-modellek)
-- [6. Összegzés](#6-összegzés)
-- [7. A jeruzsálemi döntés hatása napjainkban](#7-a-jeruzsálemi-döntés-hatása-napjainkban)
-- [8. Irodalomjegyzék](#8-irodalomjegyzék)
-
----
-
 # 1. Bevezetés
 
 Az Apostolok cselekedetei 15. fejezete az ősegyház egyik meghatározó teológiai és gyakorlati kihívását tárja elénk. A fő kérdés az volt: hogyan integrálhatók a pogány nemzetek Isten népének közösségébe anélkül, hogy rájuk kényszerítenék a Mózesi Törvény teljes megtartását, különös tekintettel a körülmetélkedésre? A jeruzsálemi zsinat döntése, miszerint a pogányokat nem terheli a Törvény teljes igája, de tartózkodniuk kell „a bálványoknak áldozott dolgoktól, a paráznaságtól, a fúlva holt állattól és a vértől” (ApCsel 15:29), meghatározó lépés volt az egyház egyetemessé válásának útján. De mi volt ennek a specifikus, négy pontból álló listának a pontos teológiai alapja és gyakorlati célja?
