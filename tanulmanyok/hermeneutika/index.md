@@ -17,6 +17,12 @@ title: Hermeneutikai alapvetés
 
 - **PDF (Zenodo):** [Letöltés](https://doi.org/10.5281/zenodo.15818855)
 
+## 📙 [Ugrás a kényelmes, online olvasóhoz](/olvaso/hermeneutika_olvaso.html)
+ 
+ - A szövegre kattintva jelenik meg a menürendszer
+
+---
+
 ## Összefoglaló
 
 A Hermeneutikai alapvetés egy rendszerezett módszertant kínál a felelős bibliatanulmányozáshoz, amely hidat épít a hívő elköteleződés és a tudományos igényesség között. A tanulmány öt teológiai alapelvre építve vázol fel egy nyolclépéses, gyakorlati protokollt a szöveghű és ellenőrizhető exegézishez. A cél egy olyan fegyelmezett keretrendszer, amely a mai információs korban is megbízható alapot nyújt az Írás értelmezéséhez.
