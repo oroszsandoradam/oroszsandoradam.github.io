@@ -17,6 +17,12 @@ title: Tartozások
 
 - **PDF (Zenodo):** [Letöltés](https://doi.org/10.5281/zenodo.15676023)
 
+## 📙 [Ugrás a kényelmes, online olvasóhoz](/olvaso/tartozasok_olvaso.html)
+ 
+ - A szövegre kattintva jelenik meg a menürendszer
+
+---
+
 ## Összefoglaló
 
 A tanulmány azt vizsgálja, mit ért Pál „tartozás” alatt a Róm 15,26–27-ben, amikor a pogány hátterű gyülekezeteket arra buzdítja, hogy anyagilag támogassák a jeruzsálemi szegény hívőket. A kiindulópont egyetlen görög szó: ὀφείλουσιν („tartoznak”). Pál ezzel az igével jogi–pénzügyi súlyú kifejezést használ, amely egyszerre utal behajtható adósságra és erkölcsi kötelezettségre. A tanulmány azt mutatja be, hogyan válik ez a kettős jelentés konkrét kötelezettséggé – a pogány hívők részéről, akik szellemi javakat kaptak, és időtlen elvvé – a közösségi egyenlőség (isotēs) érdekében, amelyet Pál a 2Kor 8,13–14-ben nevez meg. Végül a szöveg egy konkrét etikai algoritmust kínál arra, hogyan alkalmazható ez az elv ma is.
