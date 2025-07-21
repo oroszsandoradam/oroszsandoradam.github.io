@@ -1,4 +1,4 @@
-## Bevezetés
+# Bevezetés
 
 **Kulcsige:**  
 >„Mert ha a pogányok részesültek az ő szellemi javaikban, akkor tartoznak (ὀφείλουσιν) azzal is, hogy az anyagi javakban szolgáljanak nekik.”  
@@ -14,7 +14,7 @@ A vizsgálat logikai menete egy fokozatos mélyítésre épül. Az elemzés a sz
 
 A tanulmányban szereplő görög kifejezések elemzésénél és fordításánál elsődleges forrásként a Bauer–Danker–Arndt–Gingrich-féle görög–angol lexikonra (a továbbiakban: BDAG) támaszkodom.
 
-## 1. A „tartozás” kettős természete
+# 1. A „tartozás” kettős természete
 
 > Kimenvén pedig az a szolga, találkozék egygyel az ő szolgatársai közül, a ki száz dénárral vala néki adós; és megragadván azt, fojtogatja vala, mondván: Fizesd meg nékem, a mivel tartozol. (*opheileis*).  
 >(Máté 18,28)
@@ -39,7 +39,7 @@ Ebben a használatban a tartozás nem anyagi, hanem egy morális vagy közössé
 
 A Róm 15,27-ben Pál pontosan ezt a két jelentésréteget ötvözi. Az *opheilousin* szó itt az erkölcsi tartozás értelmében használatos, ugyanakkor a legerősebb jogi-pénzügyi konnotációkat hordozza. Pál szándékosan nem a „kell, szükséges” jelentésű *dei* vagy az „illik” jelentésű *prepei* igéket választja, hanem az *opheilō*-t, amely a kötelességet a tudatos és világos felelősség szintjére emeli. Ez azt jelenti, hogy Pál szemléletében az adakozás nem tetszőleges jószándék, hanem egy objektív, a hívők közötti kapcsolati struktúrából fakadó kötelezettség. Bár nem pénzügyi szerződésből ered, komolyságában annak súlyát tükrözi. A tartozás fogalma tehát konkrét és kötelező: erkölcsi természetű, de jogi erővel bíró kifejezéssel jelölve. Ez a szóhasználat előre kijelöli a tanulmány további kérdésirányait: kik között áll fenn ez a kötelezettség, milyen alapon, és milyen hatókörrel?
 
-## 2. A tartozás szereplői és feltételei
+# 2. A tartozás szereplői és feltételei
 
 **Kulcsige:**
 > Mert tetszett Macedóniának és Akhájának, hogy a jeruzsálembeli szentek szegényei részére némileg adakozzanak.  
@@ -63,7 +63,7 @@ A szöveg precíz megfogalmazása nemcsak a résztvevőket, hanem a tartozás *f
 A Róma 15 alapján tehát a tartozás egy jól körülhatárolt, szükségletalapú viszonyt ír le: a pogány hátterű gyülekezetek kötelezettsége a jeruzsálemi gyülekezet egy szűk, rászoruló csoportja felé irányul. A hangsúly nem általános adakozáson, hanem a keresztény közösségen belüli felelősség célzott és feltételekhez kötött érvényesülésén van. A következő fejezet azt vizsgálja, mi az a teológiai alap, amely ezt a kötelezettséget indokolttá és elvárhatóvá teszi.
 
 
-## 3. A tartozás teológiai alapja
+# 3. A tartozás teológiai alapja
 
 **Kulcsige:**
 > Mert ha a pogányok azoknak a lelki javaiban részesültek, tartoznak nékik viszont szolgálni a testiekben.  
@@ -81,7 +81,7 @@ Pál érvelésének alapja tehát a *kiegyenlítés teológiai logikája*. A pog
 
 A tartozás teológiai alapja tehát nem szociális érzékenység vagy egyéni lelkiismereti döntés, hanem egy belső, strukturális viszony. Ez a kötelezettség nem a címzettek *pillanatnyi társadalmi helyzetéből* fakad önmagában, hanem az ő *szerepükből*: ők a szellemi áldás forrása és közvetítői. A következő fejezet azt vizsgálja, hogy ez az elvi viszony mennyiben alapult egy konkrét, élő kapcsolaton.
 
-## 4. A kapcsolat szerepe a tartozásban
+# 4. A kapcsolat szerepe a tartozásban
 
 **Kulcsige:**
 > Csakhogy a szegényekről megemlékezzünk; a mit is én igyekeztem megcselekedni.  
@@ -106,7 +106,7 @@ Bár a történeti kapcsolatok sűrű hálózata jól dokumentált, a Róma 15-b
 
 A tartozás tehát nem a kapcsolatrendszerből származott, de annak közegében vált értelmezhetővé. A teológiai elv adott volt, de a makedón és akhájai gyülekezetek esetében nem csupán absztrakt igazságként, hanem konkrét, élő viszonyok mentén jelent meg. A következő fejezet arra keres választ, hogy ez a kötelezettség időben korlátozott volt-e, vagy olyan elv, amely ma is érvényes lehet.
 
-## 5. Időben korlátozott esemény vagy időtlen elv?
+# 5. Időben korlátozott esemény vagy időtlen elv?
 
 **Kulcsige:**
 > Mert nem úgy, hogy másoknak könnyebbségük, néktek pedig nyomorúságtok [legyen,] hanem egyenlőség szerint; e mostani időben a ti bőségtek [pótolja] amazoknak fogyatkozását; Hogy amazoknak bősége is pótolhassa a ti fogyatkozástokat, hogy [így] egyenlőség (*isotēs*) legyen; 
@@ -129,7 +129,7 @@ Az elv mögötti időfüggetlen célt a 2Korinthus 8,14 még világosabban megfo
 
 A Róm 15-ben bemutatott gyűjtés tehát egy meghatározott történelmi szituációhoz kötődött, de a mögötte álló érvelés időtlen logikát követ. Pál nem azt mondja, hogy „ebben az esetben tartoztak”, hanem azt, hogy aki részesedik szellemi javakban, az tartozik anyagiakkal. Ezzel a kötelezettség minden olyan helyzetre kiterjeszthető, ahol hasonló feltételek állnak fenn. A következő fejezet azt vizsgálja, milyen tágabb teológiai összefüggés ad mélyebb értelmet ennek az elvnek.
 
-## 6. A tartozás üdvtörténeti gyökerei
+# 6. A tartozás üdvtörténeti gyökerei
 
 **Kulcsige:**
 > Ha pedig némely ágak kitörettek, te pedig vadolajfa létedre beoltattál azok közé, és részese lettél az olajfa gyökerének és zsírjának; Ne kevélykedjél az ágak ellenében: ha pedig kevélykedel, nem te hordozod a gyökeret, hanem a gyökér téged.  
@@ -150,7 +150,7 @@ A Róm 11 és Róm 15 közvetlenül nem utal egymásra, mégis tematikus kapcsol
 
 A gyökér-ág metafora tehát nem a tartozás jogalapját adja, hanem annak mélyebb teológiai kontextusát. Pál érvelése szerint a pogány hívők nemcsak részesedtek egy korábban létező örökségből, hanem *betagolódtak* annak struktúrájába. A Róm 11 ennek a függésnek a természetét írja le; a Róm 15 pedig ennek egy gyakorlati következményét mutatja meg: ha a gyökér szűkölködik, az ágaknak kötelességük táplálni azt. A következő fejezet ennek a modellnek a mai viszonyokra vonatkozó alkalmazhatóságát vizsgálja.
 
-## 7. A tartozás elvének alkalmazása napjainkban
+# 7. A tartozás elvének alkalmazása napjainkban
 
 **Kulcsige:**
 > Hogy amazoknak bősége is pótolhassa a ti fogyatkozástokat, hogy [így] egyenlőség legyen;  
@@ -176,7 +176,7 @@ Ez az elv különböző viszonyrendszerekben is értelmezhető:
 
 Nem mindenkinek tartozik mindenki, de minden hívőnek számot kell vetnie azzal, hogy kiktől kapott szellemi javakat, kik szenvednek ma hiányt, és hol van lehetősége a hiány kiegyenlítésére. A következő és egyben záró fejezet ennek a felelősségmodellnek az összefoglaló értelmezését adja.
 
-## Záró összegzés
+# Záró összegzés
 
 A tanulmány kiindulópontja a Róma 15,27 egyetlen szava volt: *ὀφείλουσιν* – „tartoznak”. Ennek jelentése és következményei alapján olyan felelősségmodellt vázoltunk fel, amely túlmutat az önkéntes adakozás keretein, és a keresztény közösségen belüli viszonosság szerkezeti elvét írja le.
 
