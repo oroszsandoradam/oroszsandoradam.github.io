@@ -17,6 +17,13 @@ title: Jób kiválósága
 
 - **PDF (Zenodo):** [Letöltés](https://doi.org/10.5281/zenodo.16143095)
 
+## 📙 [Ugrás a kényelmes, online olvasóhoz](/olvaso/job_kivalosaga_olvaso.html)
+ 
+ - A szövegre kattintva jelenik meg a menürendszer
+
+---
+
+
 ## Összefoglaló
 
 A vizsgálat kiindulópontja nem Jób szenvedése vagy a válaszkeresése, hanem az a kivételes állapot, amelyben a próba előtt volt. A tanulmány arra keresi a választ, mitől lehetett Jób ennyire kiemelkedő, és honnan szerezhette azt az ismeretet, amely ilyen életvitelhez vezetett. A tanulmány nemcsak Jób hitének belső tartalmát és istenképét vizsgálja, hanem azt is részletesen feltárja, hogyan formálódott ez a hit praxissá egy olyan korban, ahol mindez nem volt előírva vagy szabályozva.
