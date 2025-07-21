@@ -1,3 +1,3 @@
 # Bibliai tanulmányok
 
-Ezen az oldalon Orosz Sándor Ádám bibliai témájú kutatásai találhatók.
+Ezen az oldalon Orosz Sándor Ádám bibliai témájú írásai találhatók.
