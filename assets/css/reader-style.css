@@ -70,6 +70,7 @@ main {
   hyphens: auto;
 }
 
+/* --- A FŐ FEJLÉC KONTÉNER --- */
 .reader-header {
   position: fixed;
   top: 0;
@@ -78,11 +79,13 @@ main {
   height: 64px;
   padding: 0 16px;
   box-sizing: border-box;
+
+  /* Flexbox a 3 részre osztott elrendezéshez */
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between; /* A szélső elemeket a két szélre tolja */
   align-items: center;
 
-  /* EZEK A SOROK HIÁNYOZTAK: */
+  /* ... a többi dizájn szabály (background, shadow, stb.) változatlan ... */
   background: var(--szin-panel-hatter);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
@@ -94,7 +97,7 @@ main {
   transform: translateY(-100%);
   pointer-events: none;
   transition: opacity 0.35s ease, transform 0.35s ease;
-  z-index: 1000;
+  z-index: 1002; /* A z-index marad a legmagasabb */
 }
 .reader-header.is-visible {
   opacity: 1;
@@ -102,17 +105,109 @@ main {
   pointer-events: auto;
 }
 
-/* Jobb oldali vezérlők csoportja */
+/* --- A CÍM STÍLUSA KÖZÉPEN --- */
+.reader-title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  /* Biztosítja, hogy a hosszú cím ne törjön több sorba, hanem levágja a végét */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  /* Eltoljuk egy kicsit, hogy ne ütközzön a gombokkal */
+  padding: 0 16px;
+  /* A középső elem nem nyúlik meg, csak annyi helyet foglal, amennyi kell */
+  flex-shrink: 1;
+  min-width: 0; /* Fontos a text-overflow működéséhez flexboxban */
+}
+
+/* --- A GOMBTARTÓ DIV-ek a széleken --- */
+.header-controls-left,
 .header-controls-right {
   display: flex;
   align-items: center;
-  gap: 36px;
+  gap: 16px;
+  /* A szélső elemek nem zsugorodnak, fixen tartják a helyüket */
+  flex-shrink: 0;
+}
+/* --- Alsó lábléc (Footer) - ÚJ, PROFI VERZIÓ --- */
+.reader-footer {
+  /* A footer maga egy láthatatlan konténer a gomboknak */
+  position: fixed;
+  bottom: 100px;
+  left: 0;
+  width: 100%;
+  padding: 24px;
+  box-sizing: border-box;
+
+  /* A gombcsoportokat középre rendezi, nagy távolsággal */
+  display: flex;
+  justify-content: center;
+  align-items: flex-end; /* Alulra igazítjuk őket */
+  gap: 16px;
+
+  /* Fontos: ne blokkolja a kattintást a szövegen */
+  pointer-events: none;
+  z-index: 1000;
+}
+
+/* --- Az egyes lebegő gomb-kapszulák közös stílusa --- */
+.reader-footer > * {
+  /* Minden közvetlen gyerek elem (div, a) */
+  /* Dizájn */
+  background: var(--szin-panel-hatter);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--szin-panel-keret);
+  border-radius: 50px; /* Teljesen lekerekített, "pirula" forma */
+  box-shadow: 0 4px 20px var(--szin-panel-arnyek);
+  padding: 8px;
+
+  /* Animáció */
+  opacity: 0;
+  transform: translateY(100px); /* Messzebbről, lentről indulnak */
+  pointer-events: auto; /* De ők maguk kattinthatóak */
+  transition: opacity 0.4s ease-out, transform 0.4s ease-out;
+
+  /* Flexbox a belső elemekhez */
+  display: flex;
+  align-items: center;
+}
+
+/* === Animáció és látható állapot === */
+/* Amikor a footer láthatóvá válik, a benne lévő kapszulák is megjelennek */
+.reader-footer.is-visible > * {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Késleltetés a kaszkádolt hatáshoz (balról jobbra) */
+.reader-footer.is-visible > *:nth-child(1) {
+  transition-delay: 0s;
+}
+.reader-footer.is-visible > *:nth-child(2) {
+  transition-delay: 0.05s;
+}
+.reader-footer.is-visible > *:nth-child(3) {
+  transition-delay: 0.1s;
+}
+
+/* === Gombok a kapszulákon belül === */
+.theme-controls,
+.font-controls {
+  gap: 4px;
+  /* Levesszük róluk a korábbi hátteret */
+  background-color: transparent;
+  padding: 0;
+  box-shadow: none;
+  border: none;
 }
 
 nav#toc {
   position: fixed;
   top: 0;
-  left: 0;
+  right: 0;
+  left: auto;
   width: 320px;
   height: 100vh;
   padding: 84px 20px 20px 20px;
@@ -121,11 +216,12 @@ nav#toc {
   background: var(--szin-panel-hatter);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  border-right: 1px solid var(--szin-panel-keret);
+  border-left: 1px solid var(--szin-panel-keret);
+  border-right: none;
   box-shadow: 4px 0 15px var(--szin-panel-arnyek);
-  transform: translateX(-100%);
+  transform: translateX(100%);
   transition: transform 0.35s ease;
-  z-index: 999;
+  z-index: 1001;
   line-height: 1.5;
 }
 nav#toc.open {
@@ -221,7 +317,8 @@ nav#toc a.level-h3 {
   border: none;
   border-radius: 6px;
   padding: 8px 16px;
-  font-size: 18px;
+  text-decoration: none;
+  font-size: 24px;
   line-height: 1;
   font-weight: bold;
   color: var(--szin-szoveg);
