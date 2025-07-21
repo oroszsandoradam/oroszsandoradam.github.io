@@ -12,18 +12,15 @@ title: A jeruzsálemi döntés
 **Licenc:** Creative Commons CC BY 4.0  
 **DOI:** [https://doi.org/10.5281/zenodo.15546416](https://doi.org/10.5281/zenodo.15546416)
 ---
-
-[**>> Ugrás a kényelmes, online olvasóhoz <<**](/olvaso/jeruzsalemi_dontes_olvaso.html)
-
 ## 📄 Letöltés
 
 - **PDF (Zenodo):** [Letöltés](https://doi.org/10.5281/zenodo.15546416)
 
+[**>> Ugrás a kényelmes, online olvasóhoz <<**](/olvaso/jeruzsalemi_dontes_olvaso.html)
+
 ## Összefoglaló
 
 A jeruzsálemi zsinat döntése egyszerre oldott fel teológiai feszültséget és teremtett új közösségi rendet: elhárította a Mózesi Törvény teljes kötelezettségének terhét a pogány hívőkről, miközben négy tilalommal mégis határt vont. De vajon milyen hagyományrétegek formálták ezt a meglepően tömör, mégis súlyos tartalmú rendelkezést? Univerzális erkölcsi elvek, konkrét tórai előírások, vagy egy Szentlélek vezette szintézis? A tanulmány e kérdések mentén vizsgálja a döntés mélyebb rétegeit, és párhuzamokat keres a mai keresztény közösségek dilemmáival.
-
-
 
 <div style="text-align: center;">
   <img src="cover.jpg" alt="Borítókép" style="width: 400px; height: auto;" />
