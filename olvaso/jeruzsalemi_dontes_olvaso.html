@@ -9,11 +9,36 @@
   <link rel="stylesheet" href="{{ '/assets/css/reader-style.css' | relative_url }}">
 </head>
 <body>
-  <button id="toggle-toc" class="reader-button">☰ Menü</button>
-  <div class="font-controls">
-    <button id="decrease-font" class="reader-button">A-</button>
-    <button id="increase-font" class="reader-button">A+</button>
-  </div>
+    <header class="reader-header">
+      <!-- Bal oldali gomb -->
+      <button id="toggle-toc" class="reader-button">☰</button>
+
+      <!-- Jobb oldali gombok csoportja -->
+      <div class="header-controls-right">
+        <!-- Téma váltó gombok -->
+        <div class="theme-controls">
+          <button
+            id="theme-light-btn"
+            class="reader-button theme-button"
+            title="Világos téma"
+          >
+            ☀️
+          </button>
+          <button
+            id="theme-dark-btn"
+            class="reader-button theme-button"
+            title="Sötét téma"
+          >
+            🌙
+          </button>
+        </div>
+        <!-- Betűméret állító gombok -->
+        <div class="font-controls">
+          <button id="decrease-font" class="reader-button">–</button>
+          <button id="increase-font" class="reader-button">+</button>
+        </div>
+      </div>
+    </header>
   <nav id="toc"></nav>
   <main id="content">
     {% capture tartalom %}{% include jeruzsalemi_dontes.md %}{% endcapture %}
