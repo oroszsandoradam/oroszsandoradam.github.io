@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const content = document.getElementById("content");
   const tocContainer = document.getElementById("toc");
   const readerHeader = document.querySelector(".reader-header");
+  const readerFooter = document.querySelector(".reader-footer");
   const mainContent = document.getElementById("content");
   const toggleTocButton = document.getElementById("toggle-toc");
   const increaseFontBtn = document.getElementById("increase-font");
@@ -15,7 +16,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // --- TARTALOMJEGYZÉK GENERÁLÁSA ---
   if (content && tocContainer) {
-    const headers = content.querySelectorAll("h1, h2, h3");
+    const headers = content.querySelectorAll("h1");
+    //const headers = content.querySelectorAll("h1, h2, h3");
     if (headers.length > 0) {
       headers.forEach((h) => {
         const link = document.createElement("a");
@@ -63,13 +65,13 @@ document.addEventListener("DOMContentLoaded", function () {
   if (increaseFontBtn && decreaseFontBtn) {
     increaseFontBtn.addEventListener("click", function () {
       if (currentScale < 1.8) {
-        currentScale += 0.1;
+        currentScale += 0.05;
         rootElement.style.fontSize = currentScale * 100 + "%";
       }
     });
     decreaseFontBtn.addEventListener("click", function () {
       if (currentScale > 0.7) {
-        currentScale -= 0.1;
+        currentScale -= 0.05;
         rootElement.style.fontSize = currentScale * 100 + "%";
       }
     });
@@ -113,25 +115,35 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
-  // --- FEJLÉC ÉS TOC KEZELÉSE KATTINTÁSRA ---
-  if (readerHeader && mainContent && tocContainer) {
+  // --- FEJLÉC, LÁBLÉC ÉS TOC KEZELÉSE KATTINTÁSRA ---
+  if (readerHeader && readerFooter && mainContent && tocContainer) {
     mainContent.addEventListener("click", (event) => {
+      // Linkekre ne reagáljon
       if (event.target.closest("a")) {
         return;
       }
 
-      const isHeaderVisible = readerHeader.classList.contains("is-visible");
-      const isTocOpen = tocContainer.classList.contains("open");
+      // Megnézzük, hogy a UI látható-e (elég csak az egyiket ellenőrizni)
+      const isUiVisible = readerHeader.classList.contains("is-visible");
 
-      if (isHeaderVisible || isTocOpen) {
+      // Ha bármi látható volt, bezárunk mindent
+      if (isUiVisible) {
         readerHeader.classList.remove("is-visible");
+        readerFooter.classList.remove("is-visible");
         tocContainer.classList.remove("open");
-      } else {
+      }
+      // Ha minden zárva volt, megnyitjuk a paneleket
+      else {
         readerHeader.classList.add("is-visible");
+        readerFooter.classList.add("is-visible");
       }
     });
 
+    // Megakadályozzuk, hogy a paneleken belüli kattintás bezárja a UI-t
     readerHeader.addEventListener("click", (event) => {
+      event.stopPropagation();
+    });
+    readerFooter.addEventListener("click", (event) => {
       event.stopPropagation();
     });
     tocContainer.addEventListener("click", (event) => {
