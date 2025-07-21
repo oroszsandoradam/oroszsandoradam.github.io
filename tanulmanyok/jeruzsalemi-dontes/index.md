@@ -14,9 +14,11 @@ title: A jeruzsálemi döntés
 
 ---
 
-## 📄 Letöltés - **PDF (Zenodo):** [Letöltés vagy olvasás pdf-ben](https://doi.org/10.5281/zenodo.15546416)
+## 📄 Letöltés - **PDF (Zenodo):** 
 
-## 📙 [**Ugrás a kényelmes, online olvasóhoz**](/olvaso/jeruzsalemi_dontes_olvaso.html)
+- [Letöltés vagy olvasás pdf-ben](https://doi.org/10.5281/zenodo.15546416)
+
+## 📙 [Ugrás a kényelmes, online olvasóhoz](/olvaso/jeruzsalemi_dontes_olvaso.html)
 
 ---
 
