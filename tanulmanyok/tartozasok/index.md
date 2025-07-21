@@ -15,7 +15,7 @@ title: Tartozások
 
 ## 📄 Letöltés
 
-- **PDF (Zenodo):** [Letöltés](https://doi.org/10.5281/zenodo.15676023)
+- **PDF (Zenodo):** [Letöltés és olvasás pdf-ben](https://doi.org/10.5281/zenodo.15676023)
 
 ## 📙 [Ugrás a kényelmes, online olvasóhoz](/olvaso/tartozasok_olvaso.html)
  
