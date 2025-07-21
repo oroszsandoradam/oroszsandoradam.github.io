@@ -15,7 +15,7 @@ title: Jób kiválósága
 
 ## 📄 Letöltés
 
-- **PDF (Zenodo):** [Letöltés](https://doi.org/10.5281/zenodo.16143095)
+- **PDF (Zenodo):** [Letöltés vagy olvasás pdf-ben](https://doi.org/10.5281/zenodo.16143095)
 
 ## 📙 [Ugrás a kényelmes, online olvasóhoz](/olvaso/job_kivalosaga_olvaso.html)
  
