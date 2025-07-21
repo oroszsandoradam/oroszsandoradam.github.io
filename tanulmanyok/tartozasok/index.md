@@ -11,6 +11,7 @@ title: Tartozások
 **Publikáció dátuma:** 2025. június 16.  
 **Licenc:** Creative Commons CC BY 4.0  
 **DOI:** [https://doi.org/10.5281/zenodo.15676023](https://doi.org/10.5281/zenodo.15676023)
+
 ---
 
 ## 📄 Letöltés
