@@ -1,0 +1,48 @@
+---
+---
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jób kiválósága - Online Olvasó</title>
+  <link rel="stylesheet" href="{{ '/assets/css/reader-style.css' | relative_url }}">
+</head>
+<body>
+    <header class="reader-header">
+      <a href="/" class="reader-button" title="Vissza a főoldalra">⬅️</a>
+      <div class="reader-title">Jób kiválósága</div>
+      <button id="toggle-toc" class="reader-button">☰</button>
+    </header>
+
+    <!-- ALSÓ SÁV (BEÁLLÍTÁSOK) -->
+    <footer class="reader-footer">
+      <div class="theme-controls">
+        <button
+          id="theme-light-btn"
+          class="reader-button theme-button"
+          title="Világos téma"
+        >
+          ☀️
+        </button>
+        <button
+          id="theme-dark-btn"
+          class="reader-button theme-button"
+          title="Sötét téma"
+        >
+          🌙
+        </button>
+      </div>
+      <div class="font-controls">
+        <button id="decrease-font" class="reader-button">-</button>
+        <button id="increase-font" class="reader-button">+</button>
+      </div>
+    </footer>
+  <nav id="toc"></nav>
+  <main id="content">
+    {% capture tartalom %}{% include job_kivalosaga.md %}{% endcapture %}
+    {{ tartalom | markdownify }}
+  </main>
+  <script src="{{ '/assets/js/reader-script.js' | relative_url }}"></script>
+</body>
+</html>
