@@ -1,153 +1,259 @@
 /* ==========================================================================
-   ALAP STÍLUSOK (MOBILNÉZET)
+   1. GLOBÁLIS RESET, SZÍNVÁLTOZÓK ÉS TÉMÁK
    ========================================================================== */
 
-/* --- Általános beállítások --- */
+:root {
+  /* Világos téma - Tompított, kisebb kontrasztú */
+  --szin-hatter: #f5f2e9; /* Meleg, papírszerű háttér marad */
+  --szin-szoveg: #413f3b; /* Kicsit sötétebb, olvashatóbb szöveg */
+  --szin-link: #005f73; /* Link színe marad */
+
+  /* JAVÍTÁS: Sötétebb, kevésbé "villogó" panelek */
+  --szin-panel-hatter: rgba(
+    225,
+    220,
+    210,
+    0.75
+  ); /* Sötétebb, bézsesebb panelháttér */
+  --szin-panel-keret: rgba(0, 0, 0, 0.05); /* Még finomabb keret */
+  --szin-panel-arnyek: rgba(0, 0, 0, 0.08); /* Árnyék marad */
+
+  --szin-gomb-hatter: rgba(
+    0,
+    0,
+    0,
+    0.05
+  ); /* A gomb most már jobban elüt a sötétebb paneltől */
+  --szin-gomb-hover: rgba(0, 0, 0, 0.1);
+}
+
+/* Sötét téma, amit a JS fog bekapcsolni a body elemen */
+body.dark-theme {
+  --szin-hatter: #212529;
+  --szin-szoveg: #ced4da;
+  --szin-link: #49a6e9;
+  --szin-panel-hatter: rgba(33, 37, 41, 0.75);
+  --szin-panel-keret: rgba(255, 255, 255, 0.1);
+  --szin-panel-arnyek: rgba(0, 0, 0, 0.2);
+  --szin-gomb-kontener-hatter: rgba(255, 255, 255, 0.1);
+  --szin-gomb-hover: rgba(255, 255, 255, 0.15);
+  --szin-gomb-aktiv-hatter: #49a6e9;
+  --szin-gomb-aktiv-szoveg: #212529;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
   line-height: 1.7;
   margin: 0;
-  background-color: #f0e9e9;
-  color: #333;
+  background-color: var(--szin-hatter);
+  color: var(--szin-szoveg);
+  transition: background-color 0.3s, color 0.3s;
 }
 
-/* --- Fő tartalom (main) mobilon --- */
+/* ==========================================================================
+   2. FŐ ELRENDEZÉS (LAYOUT)
+   ========================================================================== */
+
 main {
-  /* Itt a javítás: a bal oldali padding (4em) helyet hagy a menü gombnak. */
-  padding: 3em 0.3em 0 0.3em;
-  /*padding: 2em 1.2em 2em 4em;*/
+  margin: 0 auto;
+  padding: 2em 1em;
   font-size: 110%;
-  max-width: none;
-
-  /* SZÓELVÁLASZTÁS BEKAPCSOLÁSA */
-  -webkit-hyphens: auto; /* Régebbi Safari/Chrome */
-  -ms-hyphens: auto; /* Internet Explorer */
-  hyphens: auto; /* Modern böngészők */
+  text-align: justify;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 
-/* --- Címsorok mobilon --- */
-#content h1 {
-  font-size: 1.5rem;
-  text-align: center;
-}
-#content h2 {
-  font-size: 1.2rem;
-  text-align: center;
-}
-#content h3 {
-  font-size: 1.1rem;
-  text-align: center;
-}
-
-/* --- Listák mobilon ---*/
-ol,
-ul {
-  padding: 0 0 0 0;
-  margin: 0 0 0 1em;
-}
-/* --- Egyéb --- */
-sup a {
-  color: #4a90e2;
-  text-decoration: none;
-  font-size: 0.75em;
-}
-
-/* --- Gombok és a menü --- */
-.reader-button {
-  background: #fff;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  padding: 0.5em 0.8em;
-  font-size: 1em;
-  font-weight: bold;
-  cursor: pointer;
-  user-select: none;
-}
-.reader-button:hover {
-  background-color: #f0f0f0;
-}
-
-#toggle-toc {
+.reader-header {
   position: fixed;
-  top: 1em;
-  left: 1em;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 64px;
+  padding: 0 16px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  /* EZEK A SOROK HIÁNYOZTAK: */
+  background: var(--szin-panel-hatter);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--szin-panel-keret);
+  box-shadow: 0 2px 10px var(--szin-panel-arnyek);
+
+  /* Animáció */
+  opacity: 0;
+  transform: translateY(-100%);
+  pointer-events: none;
+  transition: opacity 0.35s ease, transform 0.35s ease;
   z-index: 1000;
 }
-
-.font-controls {
-  position: fixed;
-  top: 1em;
-  right: 1em;
-  z-index: 1000;
-}
-.font-controls button {
-  margin-left: 0.5em;
+.reader-header.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
 }
 
-/* --- Becsúszó tartalomjegyzék (nav) --- */
+/* Jobb oldali vezérlők csoportja */
+.header-controls-right {
+  display: flex;
+  align-items: center;
+  gap: 36px;
+}
+
 nav#toc {
   position: fixed;
   top: 0;
-  left: 0; /* A panel "eredeti" helye a bal szélen van */
-  width: 300px;
+  left: 0;
+  width: 320px;
   height: 100vh;
-  padding: 1em;
-  padding-top: 4em;
-  background: #f0e9e9;
-  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  padding: 84px 20px 20px 20px;
+  box-sizing: border-box;
   overflow-y: auto;
-
-  /* EZ AZ ÚJ RÉSZ: */
-  /* Alapértelmezetten toljuk el balra a saját szélességével */
+  background: var(--szin-panel-hatter);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-right: 1px solid var(--szin-panel-keret);
+  box-shadow: 4px 0 15px var(--szin-panel-arnyek);
   transform: translateX(-100%);
-  /* Az animáció mostantól a transform tulajdonságra vonatkozik */
-  transition: transform 0.3s ease;
-
+  transition: transform 0.35s ease;
   z-index: 999;
+  line-height: 1.5;
 }
-
-/* Az 'open' class fogja becsúsztatni a menüt a helyére */
 nav#toc.open {
-  /* Az 'open' class hatására visszatoljuk az eredeti (0,0) pozícióba */
   transform: translateX(0);
 }
-nav#toc a {
-  display: block;
-  padding: 0.5em;
-  text-decoration: none;
-  color: #0056b3;
-  border-radius: 4px;
-}
-nav#toc a:hover {
-  background-color: #e9ecef;
-}
-nav#toc a.level-h1 {
-  padding-left: 0em;
-}
-nav#toc a.level-h2 {
-  padding-left: 1.5em;
-}
-nav#toc a.level-h3 {
-  padding-left: 2.5em;
-}
-
-nav#toc.open {
-  left: 0;
-}
-/* --- Becsúszó tartalomjegyzék (nav) --- */
 
 /* ==========================================================================
-   TABLET ÉS DESKTOP NÉZET
+   3. TARTALMI ELEMEK STÍLUSA (TIPOGRÁFIA)
    ========================================================================== */
+
+#content h1,
+#content h2,
+#content h3 {
+  text-align: center;
+}
+#content h1 {
+  font-size: 1.6rem;
+}
+#content h2 {
+  font-size: 1.4rem;
+}
+#content h3 {
+  font-size: 1.2rem;
+}
+
+#content ul,
+#content ol {
+  padding: 0;
+  list-style-position: inside;
+}
+#content ol li > p,
+#content ul li > p {
+  display: inline;
+  margin: 0;
+}
+
+sup a {
+  text-decoration: none;
+  color: var(--szin-link);
+  font-size: 0.8em;
+  position: relative;
+  top: -0.3em;
+}
+.reversefootnote {
+  text-decoration: none;
+  color: var(--szin-link);
+}
+
+nav#toc a {
+  display: block;
+  padding: 10px 12px;
+  text-decoration: none;
+  color: var(--szin-szoveg);
+  border-radius: 8px;
+  transition: background-color 0.2s ease;
+}
+nav#toc a:hover {
+  background-color: var(--szin-gomb-hover);
+}
+nav#toc a.level-h2 {
+  padding-left: 32px;
+}
+nav#toc a.level-h3 {
+  padding-left: 48px;
+}
+
+/* --- Horgony-linkek ugrási pozíciójának javítása a fix fejléc miatt --- */
+#content h1,
+#content h2,
+#content h3,
+#content li[id^="fn:"],      /* Célpont: Lábjegyzet definíciók az oldal alján */
+#content sup[id^="fnref:"] {
+  /* Célpont: Visszaugrás a szövegben lévő hivatkozásra */
+  scroll-margin-top: 84px; /* Fejléc magassága (64px) + extra tér (20px) */
+}
+
+/* ==========================================================================
+   4. UI KOMPONENSEK (GOMBOK)
+   ========================================================================== */
+
+.theme-controls,
+.font-controls {
+  display: flex;
+  align-items: center;
+  gap: 16px; /* Kisebb távolság a belső gombok között */
+  background-color: var(--szin-gomb-kontener-hatter);
+  padding: 4px;
+  border-radius: 8px;
+}
+
+.reader-button {
+  background-color: transparent;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 16px;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: bold;
+  color: var(--szin-szoveg);
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+.reader-button:hover {
+  background-color: var(--szin-gomb-hover);
+}
+
+/* Aktív téma gombjának kiemelése */
+.theme-button.active {
+  background-color: var(--szin-gomb-aktiv-hatter);
+  color: var(--szin-gomb-aktiv-szoveg);
+}
+
+/* ==========================================================================
+   5. RESZPONZÍV FELÜLÍRÁSOK (Nagyobb képernyőkre)
+   ========================================================================== */
+
+@media (min-width: 481px) {
+  main {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+  }
+}
+
 @media (min-width: 768px) {
   main {
-    /* Nagy képernyőn visszaállítjuk a szimmetrikus paddingot */
-    padding: 3em 5em;
     max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
+    padding: 3em 2.5em;
   }
-
   #content h1 {
     font-size: 2.4rem;
   }
@@ -156,5 +262,22 @@ nav#toc.open {
   }
   #content h3 {
     font-size: 1.5rem;
+  }
+  #content ul,
+  #content ol {
+    list-style-position: outside;
+    padding-left: 2em;
+  }
+  #content ol li > p,
+  #content ul li > p {
+    display: block;
+    margin-block: 0.5em;
+  }
+}
+
+@media (min-width: 1200px) {
+  main {
+    padding-top: 4em;
+    padding-bottom: 4em;
   }
 }
