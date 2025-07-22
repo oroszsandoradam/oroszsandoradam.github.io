@@ -1,3 +1,5 @@
+// --- START OF FILE reader-script.js ---
+
 document.addEventListener("DOMContentLoaded", function () {
   // --- VÁLTOZÓK DEFINIÁLÁSA ---
   const bodyElement = document.body;
@@ -55,9 +57,15 @@ document.addEventListener("DOMContentLoaded", function () {
   }
   if (tocContainer) {
     tocContainer.addEventListener("click", function (e) {
+      // === MÓDOSÍTOTT RÉSZ KEZDETE ===
+      // Ha a tartalomjegyzéken belül egy linkre ('A' tag) kattint a felhasználó
       if (e.target.tagName === "A") {
+        // Bezárjuk az összes UI elemet
         tocContainer.classList.remove("open");
+        readerHeader.classList.remove("is-visible");
+        readerFooter.classList.remove("is-visible");
       }
+      // === MÓDOSÍTOTT RÉSZ VÉGE ===
     });
   }
 
@@ -117,8 +125,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // --- FEJLÉC, LÁBLÉC ÉS TOC KEZELÉSE KATTINTÁSRA ---
   if (readerHeader && readerFooter && mainContent && tocContainer) {
-    mainContent.addEventListener("click", (event) => {
-      // Linkekre ne reagáljon
+    // FIGYELJÜK AZ EGÉSZ BODY-T!
+    document.body.addEventListener("click", (event) => {
+      // Ha linkre kattint, ne csináljon semmit
       if (event.target.closest("a")) {
         return;
       }
