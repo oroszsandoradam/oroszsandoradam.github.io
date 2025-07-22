@@ -1,33 +1,14 @@
-/* ==========================================================================
-   1. GLOBÁLIS RESET, SZÍNVÁLTOZÓK ÉS TÉMÁK
-   ========================================================================== */
-
 :root {
-  /* Világos téma - Tompított, kisebb kontrasztú */
-  --szin-hatter: #f5f2e9; /* Meleg, papírszerű háttér marad */
-  --szin-szoveg: #413f3b; /* Kicsit sötétebb, olvashatóbb szöveg */
-  --szin-link: #005f73; /* Link színe marad */
-
-  /* JAVÍTÁS: Sötétebb, kevésbé "villogó" panelek */
-  --szin-panel-hatter: rgba(
-    225,
-    220,
-    210,
-    0.75
-  ); /* Sötétebb, bézsesebb panelháttér */
-  --szin-panel-keret: rgba(0, 0, 0, 0.05); /* Még finomabb keret */
-  --szin-panel-arnyek: rgba(0, 0, 0, 0.08); /* Árnyék marad */
-
-  --szin-gomb-hatter: rgba(
-    0,
-    0,
-    0,
-    0.05
-  ); /* A gomb most már jobban elüt a sötétebb paneltől */
+  --szin-hatter: #e8e3d6;
+  --szin-szoveg: #413f3b;
+  --szin-link: #005f73;
+  --szin-panel-hatter: rgba(225, 220, 210, 0.75);
+  --szin-panel-keret: rgba(0, 0, 0, 0.05);
+  --szin-panel-arnyek: rgba(0, 0, 0, 0.08);
+  --szin-gomb-hatter: rgba(0, 0, 0, 0.05);
   --szin-gomb-hover: rgba(0, 0, 0, 0.1);
 }
 
-/* Sötét téma, amit a JS fog bekapcsolni a body elemen */
 body.dark-theme {
   --szin-hatter: #212529;
   --szin-szoveg: #ced4da;
@@ -56,9 +37,9 @@ body {
   transition: background-color 0.3s, color 0.3s;
 }
 
-/* ==========================================================================
-   2. FŐ ELRENDEZÉS (LAYOUT)
-   ========================================================================== */
+/* ========================================================================== */
+/* 2. FŐ ELRENDEZÉS (LAYOUT)                                                 */
+/* ========================================================================== */
 
 main {
   margin: 0 auto;
@@ -70,118 +51,94 @@ main {
   hyphens: auto;
 }
 
-/* --- A FŐ FEJLÉC KONTÉNER --- */
 .reader-header {
+  width: 100%;
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
   height: 64px;
-  padding: 0 16px;
   box-sizing: border-box;
-
-  /* Flexbox a 3 részre osztott elrendezéshez */
   display: flex;
-  justify-content: space-between; /* A szélső elemeket a két szélre tolja */
   align-items: center;
-
-  /* ... a többi dizájn szabály (background, shadow, stb.) változatlan ... */
   background: var(--szin-panel-hatter);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--szin-panel-keret);
   box-shadow: 0 2px 10px var(--szin-panel-arnyek);
-
-  /* Animáció */
   opacity: 0;
   transform: translateY(-100%);
   pointer-events: none;
   transition: opacity 0.35s ease, transform 0.35s ease;
-  z-index: 1002; /* A z-index marad a legmagasabb */
+  z-index: 1002;
 }
 .reader-header.is-visible {
   opacity: 1;
   transform: translateY(0);
   pointer-events: auto;
 }
+.header-inner {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 0px;
+  box-sizing: border-box;
+}
 
-/* --- A CÍM STÍLUSA KÖZÉPEN --- */
 .reader-title {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   font-weight: bold;
-  /* Biztosítja, hogy a hosszú cím ne törjön több sorba, hanem levágja a végét */
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  /* Eltoljuk egy kicsit, hogy ne ütközzön a gombokkal */
   padding: 0 16px;
-  /* A középső elem nem nyúlik meg, csak annyi helyet foglal, amennyi kell */
   flex-shrink: 1;
-  min-width: 0; /* Fontos a text-overflow működéséhez flexboxban */
+  min-width: 0;
 }
 
-/* --- A GOMBTARTÓ DIV-ek a széleken --- */
 .header-controls-left,
 .header-controls-right {
   display: flex;
   align-items: center;
   gap: 16px;
-  /* A szélső elemek nem zsugorodnak, fixen tartják a helyüket */
   flex-shrink: 0;
 }
-/* --- Alsó lábléc (Footer) - ÚJ, PROFI VERZIÓ --- */
+
+/* --- Footer, gombcsoport --- */
 .reader-footer {
-  /* A footer maga egy láthatatlan konténer a gomboknak */
   position: fixed;
   bottom: 100px;
   left: 0;
   width: 100%;
   padding: 24px;
   box-sizing: border-box;
-
-  /* A gombcsoportokat középre rendezi, nagy távolsággal */
   display: flex;
   justify-content: center;
-  align-items: flex-end; /* Alulra igazítjuk őket */
+  align-items: flex-end;
   gap: 16px;
-
-  /* Fontos: ne blokkolja a kattintást a szövegen */
   pointer-events: none;
   z-index: 1000;
 }
-
-/* --- Az egyes lebegő gomb-kapszulák közös stílusa --- */
 .reader-footer > * {
-  /* Minden közvetlen gyerek elem (div, a) */
-  /* Dizájn */
   background: var(--szin-panel-hatter);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   border: 1px solid var(--szin-panel-keret);
-  border-radius: 50px; /* Teljesen lekerekített, "pirula" forma */
+  border-radius: 50px;
   box-shadow: 0 4px 20px var(--szin-panel-arnyek);
   padding: 8px;
-
-  /* Animáció */
   opacity: 0;
-  transform: translateY(100px); /* Messzebbről, lentről indulnak */
-  pointer-events: auto; /* De ők maguk kattinthatóak */
+  transform: translateY(100px);
+  pointer-events: auto;
   transition: opacity 0.4s ease-out, transform 0.4s ease-out;
-
-  /* Flexbox a belső elemekhez */
   display: flex;
   align-items: center;
 }
-
-/* === Animáció és látható állapot === */
-/* Amikor a footer láthatóvá válik, a benne lévő kapszulák is megjelennek */
 .reader-footer.is-visible > * {
   opacity: 1;
   transform: translateY(0);
 }
-
-/* Késleltetés a kaszkádolt hatáshoz (balról jobbra) */
 .reader-footer.is-visible > *:nth-child(1) {
   transition-delay: 0s;
 }
@@ -192,11 +149,9 @@ main {
   transition-delay: 0.1s;
 }
 
-/* === Gombok a kapszulákon belül === */
 .theme-controls,
 .font-controls {
   gap: 4px;
-  /* Levesszük róluk a korábbi hátteret */
   background-color: transparent;
   padding: 0;
   box-shadow: none;
@@ -228,10 +183,9 @@ nav#toc.open {
   transform: translateX(0);
 }
 
-/* ==========================================================================
-   3. TARTALMI ELEMEK STÍLUSA (TIPOGRÁFIA)
-   ========================================================================== */
-
+/* ========================================================================== */
+/* 3. TARTALMI ELEMEK STÍLUSA (TIPOGRÁFIA)                                   */
+/* ========================================================================== */
 #content h1,
 #content h2,
 #content h3 {
@@ -246,7 +200,6 @@ nav#toc.open {
 #content h3 {
   font-size: 1.2rem;
 }
-
 #content ul,
 #content ol {
   padding: 0;
@@ -257,7 +210,6 @@ nav#toc.open {
   display: inline;
   margin: 0;
 }
-
 sup a {
   text-decoration: none;
   color: var(--szin-link);
@@ -269,7 +221,6 @@ sup a {
   text-decoration: none;
   color: var(--szin-link);
 }
-
 nav#toc a {
   display: block;
   padding: 10px 12px;
@@ -287,31 +238,27 @@ nav#toc a.level-h2 {
 nav#toc a.level-h3 {
   padding-left: 48px;
 }
-
-/* --- Horgony-linkek ugrási pozíciójának javítása a fix fejléc miatt --- */
+/* Horgony-linkek scroll pozíció */
 #content h1,
 #content h2,
 #content h3,
-#content li[id^="fn:"],      /* Célpont: Lábjegyzet definíciók az oldal alján */
+#content li[id^="fn:"],
 #content sup[id^="fnref:"] {
-  /* Célpont: Visszaugrás a szövegben lévő hivatkozásra */
-  scroll-margin-top: 84px; /* Fejléc magassága (64px) + extra tér (20px) */
+  scroll-margin-top: 84px;
 }
 
-/* ==========================================================================
-   4. UI KOMPONENSEK (GOMBOK)
-   ========================================================================== */
-
+/* ========================================================================== */
+/* 4. UI KOMPONENSEK (GOMBOK)                                                */
+/* ========================================================================== */
 .theme-controls,
 .font-controls {
   display: flex;
   align-items: center;
-  gap: 16px; /* Kisebb távolság a belső gombok között */
+  gap: 16px;
   background-color: var(--szin-gomb-kontener-hatter);
   padding: 4px;
   border-radius: 8px;
 }
-
 .reader-button {
   background-color: transparent;
   border: none;
@@ -328,16 +275,14 @@ nav#toc a.level-h3 {
 .reader-button:hover {
   background-color: var(--szin-gomb-hover);
 }
-
-/* Aktív téma gombjának kiemelése */
 .theme-button.active {
   background-color: var(--szin-gomb-aktiv-hatter);
   color: var(--szin-gomb-aktiv-szoveg);
 }
 
-/* ==========================================================================
-   5. RESZPONZÍV FELÜLÍRÁSOK (Nagyobb képernyőkre)
-   ========================================================================== */
+/* ========================================================================== */
+/* 5. RESZPONZÍV FELÜLÍRÁSOK (Nagyobb képernyőkre)                           */
+/* ========================================================================== */
 
 @media (min-width: 481px) {
   main {
@@ -348,8 +293,13 @@ nav#toc a.level-h3 {
 
 @media (min-width: 768px) {
   main {
-    max-width: 800px;
+    max-width: 70ch;
     padding: 3em 2.5em;
+  }
+  .header-inner {
+    max-width: 70ch;
+    margin: 0 auto;
+    padding: 0 16px;
   }
   #content h1 {
     font-size: 2.4rem;
@@ -369,6 +319,40 @@ nav#toc a.level-h3 {
   #content ul li > p {
     display: block;
     margin-block: 0.5em;
+  }
+}
+
+@media (min-width: 900px) {
+  nav#toc {
+    top: 0;
+    width: 320px;
+    right: calc((100vw - 70ch) / 2);
+    left: auto;
+    height: 100vh;
+    padding-top: 84px;
+    padding-bottom: 20px;
+    background: var(--szin-hatter);
+    box-shadow: none;
+    border-left: none;
+    border-right: none;
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateX(100%);
+    transition: transform 0.35s ease, opacity 0.35s ease;
+  }
+
+  nav#toc.open {
+    opacity: 1;
+    pointer-events: auto;
+    background: var(--szin-panel-hatter);
+    box-shadow: -4px 0 15px var(--szin-panel-arnyek);
+    border-left: 1px solid var(--szin-panel-keret);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+
+    transform: translateX(0);
   }
 }
 
