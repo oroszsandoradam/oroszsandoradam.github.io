@@ -1,6 +1,6 @@
 #### *A szerző megjegyzése*
 
-*Jelen írás egy provokatív analógiát használ: Isten és ember kapcsolatát a kockázati tőke világának fogalmaival írja le. A szerző tudatában van az analógia anakronisztikus és szükségszerűen reduktív természetének. A cél nem a szenvedés teológiai mélységének vagy Isten lényének leegyszerűsítése, hanem egy specifikus dinamika megvilágítása: Isten hajlandó kockázatot vállalni azzal, hogy esendő emberekbe fekteti bizalmát és erőforrásait egy örök, kapcsolati érték létrehozása érdekében.*[^1]
+*Jelen írás egy provokatív analógiát használ: Isten és ember kapcsolatát a kockázati tőke világának fogalmaival írja le. A szerző tudatában van az analógia anakronisztikus és szükségszerűen reduktív természetének. A cél nem a szenvedés mélységének vagy Isten lényének leegyszerűsítése, hanem egy specifikus dinamika megvilágítása: Isten hajlandó kockázatot vállalni azzal, hogy esendő emberekbe fekteti bizalmát és erőforrásait egy örök, kapcsolati érték létrehozása érdekében.*[^1]
 
 # 1. A befektetési célpont azonosítása
 
@@ -96,7 +96,7 @@ A modell következetes: **Isten valódi hozama** nem a mi személyes kényelemü
 
 A Befektető szemében azonban a **legnagyobb hozam** a megmentett emberi életek sokasága. Azok, akik a hívők hiteles élete és bizonyságtétele nyomán Krisztushoz fordulnak, így örök részeseivé válnak Isten országának.
 
-### 3. Stratégiai kérdések minden hívő számára
+### 3. Stratégiai kérdések hívőknek
 
 * Élek-e a kegyelemből kapott alaptőkével, vagy hagyom parlagon heverni?
 * Tükröződik-e az alaptőke növekedése a jellemem fejlődésében és a környezetemre gyakorolt hatásomban?
