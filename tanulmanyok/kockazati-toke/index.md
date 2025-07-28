@@ -18,7 +18,7 @@ title: Isten kockázati tőkéje
 
 - **PDF (Zenodo):** [Letöltés vagy olvasás pdf-ben](https://doi.org/10.5281/zenodo.16541470)
 
-## 📙 [Ugrás a kényelmes, online olvasóhoz](/olvaso/tartozasok_olvaso.html)
+## 📙 [Ugrás a kényelmes, online olvasóhoz](/olvaso/kockazati_toke_olvaso.html)
  
  - A szövegre kattintva jelenik meg a menürendszer
 
