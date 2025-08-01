@@ -26,7 +26,7 @@ title: A térkép amit még nem láttál
 ## Összefoglaló
 
 „A térkép, amit még nem láttál” egy provokatív írás, amely a modern életet olyan játékként mutatja be, amelynek szabályai szinte borítékolják a kiégést és a szorongást.
-Ez a 3000 éves, mégis meglepően aktuális útmutató – a bibliai Prédikátor könyve alapján – feltérképezi a siker, az élményhajhászás és az önmagunk márkázásának zsákutcáit, miközben új nézőpontot és élhetőbb stratégiát kínál.
+Ez a 3000 éves, mégis meglepően aktuális útmutató – a bibliai Prédikátor könyve alapján – feltérképezi a siker, az élményhajhászás és a személyes brandépítés zsákutcáit, miközben új nézőpontot és élhetőbb stratégiát kínál.
 Iránytűt ad ahhoz, hogy rátaláljunk egy valóban tartalmas útra, és választ keressünk a kérdésre: hogyan lehet okosabban játszani egy látszólag megnyerhetetlen játékot?
 
 <div style="text-align: center;">
