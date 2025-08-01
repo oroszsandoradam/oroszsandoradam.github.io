@@ -1,5 +1,5 @@
 ---
-title: A térkép amit még nem láttál
+title: A térkép, amit még nem láttál
 ---
 
 [← Vissza a főoldalra](/)
