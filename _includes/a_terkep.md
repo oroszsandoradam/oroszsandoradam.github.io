@@ -16,7 +16,7 @@ A következő fejezetekben öt ilyen nagy falat, öt „csapda-küldetést” fo
 
 1. **A céltévesztett előléptetés fala:** A végtelen *grind*[^5] és a karrier, ami nem adja meg a várt boldogságot.
 2. **Az élmény-másnaposság fala:** A *FOMO*-csapda[^6], és a kipipált bakancslisták utáni üresség.
-3. **Az információs túlterhelés fala:** A túl sok információ és a *doomscrolling*[^7] átka, ami megbénít.
+3. **Az információs túlterhelés fala:** A túl sok információ és a *doomscrolling*[^7] terhe, ami megbénít.
 4. **A kiégett igazságérzet fala:** A cinizmus csapdája, amikor rájössz, hogy a rendszer nem mindig fair.
 5. **A törékeny identitás fala:** A *personal brand*[^8] összeomlása, amikor a sikereidre épített önképed megrendül.
 
@@ -355,7 +355,7 @@ Vagy választhatod a tábortüzet. Ma. Most. Ahelyett, hogy a jövőbeli sikerek
 
 Ha nem tudod, hol kezdd, itt egy egyszerű kihívás a következő 24 órára. Csak egyetlen dologra koncentrálj:  
 
-Vegyél észre egy “tábortűz-pillanatot”. Egy apró, hétköznapi örömöt, amiért hálás lehetsz. Ne posztold ki. Ne elemezd. Csak éld át, és mondj érte egy csendes “köszönöm”-öt a Teremtőnek.
+Vegyél észre egy „tábortűz-pillanatot”. Egy apró, hétköznapi örömöt, amiért hálás lehetsz. Ne posztold ki. Ne elemezd. Csak éld át, és mondj érte egy csendes „köszönöm”-öt a Teremtőnek.
 
 Ez az első lépés a tűz melege felé. Ez az első lépés a Kőszikla felé.
 
