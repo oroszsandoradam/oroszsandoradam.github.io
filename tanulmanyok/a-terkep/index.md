@@ -7,7 +7,7 @@ title: A térkép, amit még nem láttál
 # A térkép, amit még nem láttál
 
 **Szerző:** Orosz Sándor Ádám  
-**Publikáció dátuma:** 2025. augusztus 09.  
+**Publikáció dátuma:** 2025. augusztus 10.  
 **Licenc:** Minden jog fenntartva.
 **DOI:** [https://doi.org/10.5281/zenodo.16788070](https://doi.org/10.5281/zenodo.16788070)
 
