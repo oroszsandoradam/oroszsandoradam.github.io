@@ -12,6 +12,8 @@ Minden írás külön oldalon olvasható, és PDF formátumban is letölthető.
 
 ## 🧭 Elérhető tanulmányok
 
+- [A térkép, amit még nem láttál](/tanulmanyok/a-terkep/)
+
 - [Isten kockázati tőkéje - Egy befektetés története Jóbtól Krisztusig](/tanulmanyok/kockazati-toke/)
 
 - [Jób kiválósága - Egy elért csúcs anatómiája](/tanulmanyok/job-kivalosaga/)
