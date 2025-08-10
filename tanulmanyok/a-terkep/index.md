@@ -15,7 +15,7 @@ title: A térkép, amit még nem láttál
 
 ## 📄 Letöltés
 
-- **PDF (Zenodo):** [Letöltés vagy olvasás pdf-ben](https://doi.org/10.5281/zenodo.xxxxxxxx)
+- **PDF (Zenodo):** [Letöltés vagy olvasás pdf-ben](https://doi.org/10.5281/zenodo.16788070)
 
 ## 📙 [Ugrás a kényelmes, online olvasóhoz](/olvaso/a_terkep_olvaso.html)
 
