@@ -9,7 +9,7 @@ title: A térkép, amit még nem láttál
 **Szerző:** Orosz Sándor Ádám  
 **Publikáció dátuma:** 2025. augusztus 09.  
 **Licenc:** Minden jog fenntartva.
-**DOI:** [https://doi.org/10.5281/zenodo.xxxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxxx)
+**DOI:** [https://doi.org/10.5281/zenodo.16788070](https://doi.org/10.5281/zenodo.16788070)
 
 ---
 
@@ -25,9 +25,7 @@ title: A térkép, amit még nem láttál
 
 ## Összefoglaló
 
-„A térkép, amit még nem láttál” egy provokatív írás, amely a modern életet olyan játékként mutatja be, amelynek szabályai szinte borítékolják a kiégést és a szorongást.
-Egy közel 3000 éves, mégis meglepően aktuális útmutató – a bibliai Prédikátor könyve – segítségével feltérképezi a siker, az élményhajhászás és a személyes brandépítés zsákutcáit, miközben új nézőpontot és élhetőbb stratégiát kínál.
-Iránytűt ad ahhoz, hogy rátaláljunk egy valóban tartalmas útra, és választ keressünk a kérdésre: hogyan lehet okosabban játszani egy látszólag megnyerhetetlen játékot?
+A Térkép, amit még nem láttál a Prédikátor könyvének időtlen bölcsességét ülteti át a modern kor kihívásaira. Öt tipikus életcsapdát – karrierhajszát, élmény-másnaposságot, információs túlterhelést, kiégett igazságérzetet és törékeny identitást – tár fel, és bibliai alapú, gyakorlati stratégiákat kínál a valódi öröm és stabil önazonosság megtalálásához.
 
 <div style="text-align: center;">
   <img src="cover.jpg" alt="Borítókép" style="width: 400px; height: auto;" />
