@@ -12,6 +12,8 @@ Minden írás külön oldalon olvasható, és PDF formátumban is letölthető.
 
 ## 🧭 Elérhető tanulmányok
 
+- [A rejtőzködő Forrás](/tanulmanyok/a-rejtozkodo-forras/)
+
 - [A térkép, amit még nem láttál](/tanulmanyok/a-terkep/)
 
 - [Isten kockázati tőkéje - Egy befektetés története Jóbtól Krisztusig](/tanulmanyok/kockazati-toke/)
@@ -28,7 +30,7 @@ Minden írás külön oldalon olvasható, és PDF formátumban is letölthető.
 
 ## ℹ️ Megjegyzés
 
-A tanulmányok többsége a Creative Commons BY 4.0 licenc feltételei szerint szabadon megosztható.
+A tanulmányok egy része a Creative Commons BY 4.0 licenc feltételei szerint szabadon megosztható.
 Egyes írások azonban „Minden jog fenntartva” megjelöléssel szerepelnek.
 A felhasználási feltételek minden egyes műnél külön olvashatók.
 Az oldal tartalma folyamatosan új tanulmányokkal bővül.
