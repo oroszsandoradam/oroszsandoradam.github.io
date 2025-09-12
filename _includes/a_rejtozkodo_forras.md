@@ -376,7 +376,7 @@ A Szentháromság dinamikus-relációs modellje több, mint egy dogmatikai téte
 
 ### A.1 Dinamikus‑relációs modell vs. egység/személyesség torzulások
 
-| Szempont               | **Dinamikus‑relációs modell (bibliai kép)**                                                           | **Modalizmus**                                                          | **Tritheizmus**                                                        |
+| Szempont | **Dinamikus‑relációs modell (bibliai kép)** | **Modalizmus** | **Tritheizmus** |
 | :---| :-----------| :----------- | :----------- |
 | **Istenképe**          | Cselekvő, relációs, élő, kormányzó Isten.                                                             | Egyetlen személy, aki különböző szerepeket/maszkokat játszik.           | Három különálló, független isteni lény, akik szövetségben állnak.      |
 | **Mennyei szféra**     | Dinamikus, aktív kormányzati és liturgikus központ.                                                   | Nincs valós interakció; a cselekmény egy isteni monológ.                | Független lények tanácsa, ahol külső, diplomáciai viszonyok vannak.    |
