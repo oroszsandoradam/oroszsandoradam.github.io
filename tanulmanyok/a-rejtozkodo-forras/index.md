@@ -9,13 +9,13 @@ title: A rejtőzködő Forrás
 **Szerző:** Orosz Sándor Ádám  
 **Publikáció dátuma:** 2025. szeptember 12.  
 **Licenc:** CC BY-NC-SA 4.0  
-**DOI:** [https://doi.org/10.5281/zenodo.16788070](https://doi.org/10.5281/zenodo.xxxxxxxx)
+**DOI:** [https://doi.org/10.5281/zenodo.17112542](https://doi.org/10.5281/zenodo.17112542)
 
 ---
 
 ## 📄 Letöltés
 
-- **PDF (Zenodo):** [Letöltés vagy olvasás pdf-ben](https://doi.org/10.5281/zenodo.xxxxxxxx)
+- **PDF (Zenodo):** [Letöltés vagy olvasás pdf-ben](https://doi.org/10.5281/zenodo.17112542)
 
 ## 📙 [Ugrás a kényelmes, online olvasóhoz](/olvaso/a_rejtozkodo_forras_olvaso.html)
 
