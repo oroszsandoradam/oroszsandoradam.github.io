@@ -6,13 +6,13 @@ description: Orosz Sándor Ádám írásai
 # 📚 Tartalmi áttekintés
 
 Ezen az oldalon Orosz Sándor Ádám bibliai tanulmányai találhatók. Minden írás külön oldalon olvasható, és PDF formátumban is letölthető.  
-Egyéb írásaim elérhetők még a blogomon is: [oroszsandoradam.blogspot.com](https://oroszsandoradam.blogspot.com/)
+Egyéb írásaim elérhetők még: [oroszsandoradam.blogspot.com](https://oroszsandoradam.blogspot.com/)
 
 ---
 
 ## 🧭 Elérhető tanulmányok
 
-- [A rejtőzködő Forrás](/tanulmanyok/a-rejtozkodo-forras/)
+- [A rejtőzködő Forrás - A Szentháromság funkcionális rendje és a kinyilatkoztatás dinamikája](/tanulmanyok/a-rejtozkodo-forras/)
 
 - [A térkép, amit még nem láttál](/tanulmanyok/a-terkep/)
 
