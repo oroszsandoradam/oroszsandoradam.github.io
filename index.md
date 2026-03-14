@@ -12,19 +12,21 @@ Egyéb írásaim elérhetők még: [oroszsandoradam.blogspot.com](https://oroszs
 
 ## 🧭 Elérhető tanulmányok
 
-- [A rejtőzködő Forrás - A Szentháromság funkcionális rendje és a kinyilatkoztatás dinamikája](/tanulmanyok/a-rejtozkodo-forras/)
+- [A kézírás – Az emberiség ontológiai vádirata](/tanulmanyok/a-keziras/)
+
+- [A rejtőzködő Forrás – A Szentháromság funkcionális rendje és a kinyilatkoztatás dinamikája](/tanulmanyok/a-rejtozkodo-forras/)
 
 - [A térkép, amit még nem láttál](/tanulmanyok/a-terkep/)
 
-- [Isten kockázati tőkéje - Egy befektetés története Jóbtól Krisztusig](/tanulmanyok/kockazati-toke/)
+- [Isten kockázati tőkéje – Egy befektetés története Jóbtól Krisztusig](/tanulmanyok/kockazati-toke/)
 
-- [Jób kiválósága - Egy elért csúcs anatómiája](/tanulmanyok/job-kivalosaga/)
+- [Jób kiválósága – Egy elért csúcs anatómiája](/tanulmanyok/job-kivalosaga/)
 
-- [Hermeneutikai alapvetés - A felelősségteljes bibliatanulmányozás rendszerezett módszertana](/tanulmanyok/hermeneutika/)
+- [Hermeneutikai alapvetés – A felelősségteljes bibliatanulmányozás rendszerezett módszertana](/tanulmanyok/hermeneutika/)
 
-- [Tartozások - Gyűjtés a jeruzsálemi gyülekezet szegényeinek: Teológia és mai relevancia](/tanulmanyok/tartozasok/)
+- [Tartozások – Gyűjtés a jeruzsálemi gyülekezet szegényeinek: Teológia és mai relevancia](/tanulmanyok/tartozasok/)
 
-- [A jeruzsálemi döntés - Az apostoli zsinat határozatának értelmezési keretei](/tanulmanyok/jeruzsalemi-dontes/)
+- [A jeruzsálemi döntés – Az apostoli zsinat határozatának értelmezési keretei](/tanulmanyok/jeruzsalemi-dontes/)
 
 ---
 
