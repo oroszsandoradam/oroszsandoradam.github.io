@@ -25,9 +25,7 @@ title: A kézírás
 
 ## Összefoglaló
 
-A Kolossé levél 2,14-ben szereplő *cheirographon* („kézírás” vagy adóslevél) hagyományos, mózesi Törvénnyel való azonosítása komoly exegetikai nehézségekbe ütközik a pogánykeresztény címzettek kontextusában. Mivel a pogányok sosem álltak a Tóra joghatósága alatt, az nem lehetett az ő egyetemes, „ellenük szóló” vádiratuk. Jelen tanulmány azt a hipotézist vizsgálja, hogy a *cheirographon* nem egy partikuláris nemzeti törvénykönyv, hanem az emberiség szövetségi képviselet útján örökölt, ontológiai szintű adósságlevele.
-
-A grammatikai-történeti exegézist és a papirológiai bizonyítékokat rendszerteológiai keretben ötvözve a kutatás rámutat: a kézírás jogalapját biztosító „rendelések” (*dogmata*) nem a sínai parancsolatokat, hanem az univerzális édeni halál-dekrétumot (1Móz 2,17) jelölik, amit a Második Templom korának irodalma és a korai patrisztikus hagyomány (Philón, Irenaeus, Athanasziosz) szóhasználata is megerősít.
+Mit jelent valójában a Kol 2,14 „kézírása”, és valóban a mózesi Törvényre utal-e? Ez a tanulmány amellett érvel, hogy a hagyományos azonosítás komoly exegetikai nehézségekbe ütközik, különösen a pogánykeresztény címzettek összefüggésében. A dolgozat ezért azt a hipotézist vizsgálja, hogy a cheirographon nem egy partikuláris törvénykönyv, hanem az emberiséget szövetségi képviselet útján terhelő, örökölt adósságlevél. A tanulmány grammatikai-történeti, papirológiai és rendszerteológiai szempontok összekapcsolásával új megvilágításba helyezi a Kol 2,13–15 belső szerkezetét és jogi-teológiai logikáját.
 
 <div style="text-align: center;">
   <img src="cover.jpg" alt="Borítókép" style="width: 400px; height: auto;" />
