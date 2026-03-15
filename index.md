@@ -6,7 +6,7 @@ description: Orosz Sándor Ádám írásai
 # 📚 Tartalmi áttekintés
 
 Ezen az oldalon Orosz Sándor Ádám bibliai tanulmányai találhatók. Minden írás külön oldalon olvasható, és PDF formátumban is letölthető.  
-Egyéb írásaim elérhetők még: [oroszsandoradam.blogspot.com](https://oroszsandoradam.blogspot.com/)
+Egyéb írások elérhetők még: [oroszsandoradam.blogspot.com](https://oroszsandoradam.blogspot.com/)
 
 ---
 
