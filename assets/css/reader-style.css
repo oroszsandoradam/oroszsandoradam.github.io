@@ -205,15 +205,15 @@ nav#toc.open {
 }
 
 #content h1 {
-  font-size: 1.6rem;
+  font-size: 1.3rem;
 }
 
 #content h2 {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
 }
 
 #content h3 {
-  font-size: 1.15rem;
+  font-size: 1.0rem;
 }
 
 #content ul,
@@ -321,6 +321,26 @@ a:focus {
 }
 
 /* ========================================================================== */
+/* 6. TÁBLÁZATOK                                                              */
+/* ========================================================================== */
+#content table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#content th,
+#content td {
+  text-align: left;
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--szin-panel-keret);
+}
+
+#content th {
+  border-bottom-width: 2px;
+  font-weight: bold;
+}
+
+/* ========================================================================== */
 /* 5. RESZPONZÍV FELÜLÍRÁSOK (Nagyobb képernyőkre)                           */
 /* ========================================================================== */
 
@@ -344,15 +364,15 @@ a:focus {
   }
 
   #content h1 {
-    font-size: 2.0rem;
+    font-size: 1.6rem;
   }
 
   #content h2 {
-    font-size: 1.7rem;
+    font-size: 1.35rem;
   }
 
   #content h3 {
-    font-size: 1.4rem;
+    font-size: 1.15rem;
   }
 
   #content ul,
