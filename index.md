@@ -12,6 +12,8 @@ Egyéb írások elérhetők még: [oroszsandoradam.blogspot.com](https://oroszsa
 
 ## 🧭 Elérhető tanulmányok
 
+- [A Szellem ígérete – Ábrahám áldása, a Törvény átka és a Mag halála](/tanulmanyok/a-szellem-igerete/)
+
 - [Ábrahám kebele – Az ószövetségi hívők üdv–státusza a bűn–halál rendjén belül](/tanulmanyok/abraham-kebele/)
 
 - [Szintjelző – A bűn kétszintű modelljének nyelvészeti validációja Pál apostol teológiájában](/tanulmanyok/szintjelzo/)
