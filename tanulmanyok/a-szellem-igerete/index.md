@@ -7,7 +7,7 @@ title: A Szellem ígérete
 # A Szellem ígérete
 
 **Szerző:** Orosz Sándor Ádám  
-**Publikáció dátuma:** 2026. június 7.  
+**Publikáció dátuma:** 2026. június 3.  
 **Licenc:** CC BY-NC-SA 4.0  
 **DOI:** [https://doi.org/10.5281/zenodo.20533162](https://doi.org/10.5281/zenodo.20533162)
 

@@ -12,6 +12,8 @@ Egyéb írások elérhetők még: [oroszsandoradam.blogspot.com](https://oroszsa
 
 ## 🧭 Elérhető tanulmányok
 
+- [A fedezett közeledés – Előtanulmány a vér szerepeinek újszövetségi teológiájához](/tanulmanyok/a-fedezett-kozeledes/)
+
 - [A Szellem ígérete – Ábrahám áldása, a Törvény átka és a Mag halála](/tanulmanyok/a-szellem-igerete/)
 
 - [Ábrahám kebele – Az ószövetségi hívők üdv–státusza a bűn–halál rendjén belül](/tanulmanyok/abraham-kebele/)
