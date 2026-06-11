@@ -1,0 +1,1 @@
+- [A kézírás – Az emberiség ontológiai vádirata](/tanulmanyok/a-keziras/)
