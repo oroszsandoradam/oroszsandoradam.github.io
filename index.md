@@ -20,7 +20,7 @@ Egyéb írások elérhetők még: [oroszsandoradam.blogspot.com](https://oroszsa
 
 - [Szintjelző – A bűn kétszintű modelljének nyelvészeti validációja Pál apostol teológiájában](/tanulmanyok/szintjelzo/)
 
-- [A kézírás – Az emberiség ontológiai vádirata](/tanulmanyok/a-keziras/)
+/** - [A kézírás – Az emberiség ontológiai vádirata](/tanulmanyok/a-keziras/)
 
 - [A rejtőzködő Forrás – A Szentháromság funkcionális rendje és a kinyilatkoztatás dinamikája](/tanulmanyok/a-rejtozkodo-forras/)
 
