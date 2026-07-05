@@ -12,6 +12,8 @@ Egyéb írások elérhetők még: [oroszsandoradam.blogspot.com](https://oroszsa
 
 ## 🧭 Elérhető tanulmányok
 
+- [Az isteni megbánás – A változhatatlan hűség megnyilvánulása](/tanulmanyok/az-isteni-megbanas/)
+
 - [A fedezett közeledés – Előtanulmány a vér szerepeinek újszövetségi teológiájához](/tanulmanyok/a-fedezett-kozeledes/)
 
 - [A Szellem ígérete – Ábrahám áldása, a Törvény átka és a Mag halála](/tanulmanyok/a-szellem-igerete/)
