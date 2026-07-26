@@ -36,14 +36,15 @@ Mit jelent valójában a Kol 2,14 „kézírása”, és valóban a mózesi Tör
 ---
 
 - [Absztrakt](#absztrakt)
-- [1. Bevezetés](#1-bevezetés)
+- [Szerzői előszó a második kiadáshoz](#szerzői-előszó-a-második-kiadáshoz)
+- [1. Bevezetés: a kézírás problémája](#1-bevezetés-a-kézírás-problémája)
 - [2. A *cheirographon* jogi természete](#2-a-cheirographon-jogi-természete)
-- [3. Az ontológiai alap: Az ádámi adósság](#3-az-ontológiai-alap-az-ádámi-adósság)
+- [3. Az ontológiai alap: az ádámi adósság](#3-az-ontológiai-alap-az-ádámi-adósság)
 - [4. Részletes exegézis: Kolossé 2,13–15](#4-részletes-exegézis-kolossé-21315)
-- [5. A két szint megkülönböztetése](#5-a-két-szint-megkülönböztetése)
+- [5. A bűnprobléma két szintje](#5-a-bűnprobléma-két-szintje)
 - [6. Az eltörlés terjedelme és érvényessége](#6-az-eltörlés-terjedelme-és-érvényessége)
 - [7. Konklúzió](#7-konklúzió)
-- [A. Melléklet: Filológiai bizonyítékok a *tois dogmasin* értelmezéséhez](#a-melléklet-filológiai-bizonyítékok-a-tois-dogmasin-értelmezéséhez)
+- [A. melléklet: Kontrolladatok a *cheirographon* és a *tois dogmasin* értelmezéséhez](#a-melléklet-kontrolladatok-a-cheirographon-és-a-tois-dogmasin-értelmezéséhez)
 
 ---
 
